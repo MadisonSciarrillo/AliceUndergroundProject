@@ -1,0 +1,17 @@
+
+body {
+    background-color: maroon;
+    color: black;
+    font-family: arial, helvetica, sans-serif;
+}
+ol {
+    list-style-type: lower-alpha;
+    padding: 5em;
+}
+section.photos {
+    background-color: olive;
+    font-family: roman, 'times new roman', times, serif;
+}
+figure.image {
+    max-width: 150px;
+}
