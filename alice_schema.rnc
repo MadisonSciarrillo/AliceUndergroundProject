@@ -1,0 +1,6 @@
+start = alice
+
+alice = element alice {story}
+story = element story {p}
+p = element p {mixed{char}}
+char = element char {text}
