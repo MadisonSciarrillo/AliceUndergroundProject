@@ -2,7 +2,7 @@ start = root
 
 root = element root {image*,chapter+}
 chapter = element chapter {(heading|p|image|divide)*}
-p = element p {mixed{(char|uline|b|lb|i|qmarks|class)*}}
+p = element p {mixed{(char|uline|b|lb|i|q|class)*}}
 heading = element heading {text}
 image = element image {empty,source}
 source = attribute source {xsd:anyURI}
@@ -14,7 +14,7 @@ uline = element uline {text}
 b = element b {text}
 lb = element lb {empty}
 i = element i {text}
-qmarks = element qmarks {mixed{(i|lb|b|uline|qmarks|char)*}}
+q = element q {mixed{(i|lb|b|uline|q|char)*}}
 char = element char {text}#add type, name, and species attribites once OG text is altered to match
 type = attribute type {"main" | "side"}
 species = attribute species {text} #maybe left open bc of how many creatures are in the novel
