@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><xml>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="alice_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<root> 
   <image source="au-images/image_001.jpg"/>
-  <p>
-    
-  </p>
-  <chapter>
-    <heading> Chapter I </heading>
+  <chapter>    
+    <heading> Chapter I </heading> 
     <p> Alice was beginning to get very tired of sitting by her sister on the bank, and of having
       nothing to do: once or twice she had peeped into the book her sister was reading, but it had
       no pictures or conversations in it, and where is the use of a book, thought Alice, without
@@ -68,7 +67,7 @@
       heard it say, as it turned a corner, "my ears and whiskers, how late it's getting!" She turned
       the corner after it, and instantly found herself in a long, low hall, lit up by a row of lamps
       which hung from the roof. </p>
-    <image source="au-images/image_006.jpg"/>
+    <image source="au-images/image_006.jpg"/>  
     <p> There were doors all round the hall, but they were all locked, and when Alice had been all
       round it, and tried them all, she walked sadly down the middle, wondering how she was ever to get out again: suddenly
       she came upon a little three-legged table, all made of solid glass; there was nothing lying
@@ -133,7 +132,7 @@
       it seemed quite dull and
       stupid for things to go on in the common way. </p>
     <p> So she set to work, and very soon finished off the cake. </p>
-
+ 
     <p> "Curiouser and curiouser!" cried Alice, (she was so surprised that she quite forgot how to
       speak good English,) "now I'm opening out like the largest telescope that ever was! Goodbye,
       feet!" (for when she looked down at her feet, they seemed almost out of sight, they were
@@ -141,15 +140,15 @@
       stockings for you now, dears? I'm sure I can't! I shall be a great deal too far off to bother
       myself about you: you must manage the best way you can—but I must be kind to them," thought
       Alice, "or perhaps they won't walk the way I want to go! Let me see: I'll give them a new pair
-      of boots every Christmas." </p>
-    <image source="au-images/image_011.jpg"/>
+      of boots every Christmas." </p> 
+    <image source="au-images/image_011.jpg"/> 
     <p> And she went on planning to herself how she would manage it "they must go by the carrier," she thought,
       "and how funny it'll seem, sending presents to one's own feet! And how odd the directions will
-      look!
+      look!  
       <lb/><b>ALICE'S RIGHT FOOT, ESQ.</b>
-      <lb/><b>THE CARPET,</b>
+      <lb/><b>THE CARPET,</b>  
       <lb/><b>with ALICE'S LOVE</b>
-    </p>
+    </p> 
     <p> oh dear! what nonsense I am talking!" </p>
     <p> Just at this moment, her head struck against the roof of the hall: in fact, she was now
       rather more than nine feet high, and she at once took up the little golden key, and hurried
@@ -189,12 +188,12 @@
       began, but her voice sounded hoarse and strange, and the words did not sound the same as they
       used to do: </p>
     <div class="poem">
-      <div class="stanza">
+      <div class="stanza"> 
         <l indent="i0">"How doth the little crocodile</l>
         <l indent="i2">Improve its shining tail,</l>
         <l indent="i0">And pour the waters of the Nile</l>
         <l indent="i2">On every golden scale!</l>
-      </div>
+      </div>  
       <div class="stanza">
         <l indent="i0">"How cheerfully it seems to grin!</l>
         <l indent="i2">How neatly spreads its claws!</l>
@@ -341,7 +340,7 @@
       <l indent="11.5em">Was the <uline>cat</uline>!</l>
       <l indent="13.5em">To our joys</l>
       <l indent="14em">a clog, In</l>
-      <l indent="13.5em">our eyes a</l>
+      <l indent="13.5em">our eyes a</l> 
       <l indent="11.5em">fog, On our</l>
       <l indent="9em">hearts a log</l>
       <l indent="7em"><uline>Was</uline> the dog!</l>
@@ -595,7 +594,7 @@
       rest herself, and fanned herself with her hat. "I should have liked teaching it tricks, if—if
       I'd only been the right size to do it! Oh! I'd nearly forgotten that I've got to grow up
       again! Let me see; how <i>is</i> it to be managed? I suppose I ought to eat or drink something
-      or other, but the great question is what?" </p>
+      or other, but the great question is what?" </p> 
     <p> The great question certainly was, what? Alice looked all round her at the flowers and the
       blades of grass but could not see anything that looked like the right thing to eat under the
       circumstances. There was a large mushroom near her, about the same height as herself, and when
@@ -654,7 +653,7 @@
         <l indent="i0">And yet you incessantly stand on your head—</l>
         <l indent="i2">Do you think, at your age, it is right?"</l>
       </div>
-    </div>
+    </div> 
     <p class="center"> 2. </p>
     <div class="poem">
       <div class="stanza">
@@ -1139,4 +1138,4 @@
       joys, remembering her own child-life, and the happy summer days. </p>
     <image source="au-images/image_090.jpg"/>
   </chapter>
-</xml>
+</root>
