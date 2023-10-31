@@ -1,12 +1,16 @@
 start = root
 
 root = element root {image*,chapter+}
-chapter = element chapter {(heading|p|image|divide)*}
-p = element p {mixed{(char|uline|b|lb|i|q|class)*}}
+chapter = element chapter {(heading|p|image|divide|yap)*}
+p = element p {mixed{(char|uline|b|lb|i|q|class|yap|lDiv|trans)*}}
 heading = element heading {text}
+yap = element yap {text}
+lDiv = element lDiv {mixed{divType}}
 image = element image {empty,source}
+divType = attribute divType {"forshadowing" | "onomatopoeia" | "alliteration"}
 source = attribute source {xsd:anyURI}
 divide = element div {(l|class|divide)*}
+trans = element trans {text}
 l = element l {mixed{indent,uline*}}
 class = attribute class{xsd:string}
 indent = attribute indent {xsd:string}
