@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="alice_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root><chapter>
     <heading> Chapter III </heading>
     <p> "The first thing I've got to do," said <char type = "main" species = "human">Alice</char> to herself, as she wandered about in the wood,
@@ -209,8 +210,8 @@
         another moment, when she found that her shoulders were nowhere to be seen: she looked down
         upon an immense length of neck, which seemed to rise like a stalk out of a sea of green leaves
         that lay far below her. </p></trans>
-    <image source="au-images/image_062.jpg"/>
-    <p>
+    <image source="au-images/image_062.jpg"/>  
+    <p> 
         
     </p>
     <p> "What <uline>can</uline> all that green stuff be?" said <char type = "main" species = "human">Alice</char>, "and where <uline>have</uline> my shoulders got to? And oh! my poor hands! how is it I ca'n't see
