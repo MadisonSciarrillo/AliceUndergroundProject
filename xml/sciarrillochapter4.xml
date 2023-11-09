@@ -213,7 +213,7 @@
     <p> "Shall we try the second figure?" <xpres>said </xpres>the <char species="nonhuman">Gryphon</char>, <quote>"or would you prefer a song?"</quote> </p>
     <p> <quote>"Oh, a song, please!" </quote><char>Alice</char> replied, so eagerly, that the <char species="nonhuman">Gryphon</char> <xpres>said</xpres>, in a rather offended
         tone, "hm! no accounting for tastes! Sing her 'Mock Turtle Soup', will you, old fellow!" </p>
-    <p> The<char species="nonhuman"> Mock Turtle </char>sighed deeply, and began, in a voice sometimes choked with sobs, to sing
+    <p> The<char species="nonhuman"> Mock Turtle </char>sighed deeply, and began, in a voice sometimes choked with <xpres>sobs</xpres>, to sing
         this: </p>
     <div class="poem">
         <div class="stanza">
