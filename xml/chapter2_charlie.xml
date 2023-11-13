@@ -31,8 +31,8 @@
         <p> "As wet as ever," <xpres>said</xpres> poor <char species="human">Alice</char>, "it doesn't seem to dry me at all." </p>
         <p> "In that case," <xpres>said</xpres> the <char>Dodo</char> solemnly, rising to his feet, "I move that the meeting
             adjourn, for the immediate adoption of more energetic remedies—" </p>
-        <p> "Speak English!" <xpres>said</xpres> <char>the Duck</char>, "I don't know the meaning of half those long words, and
-            what's more, I don't believe you do either!" And <char>the Duck</char> quacked a comfortable laugh to
+        <p> "Speak English!" <xpres>said</xpres> <char species="nonhuman">the Duck</char>, "I don't know the meaning of half those long words, and
+            what's more, I don't believe you do either!" And <char species="nonhuman">the Duck</char> quacked a comfortable laugh to
             itself. Some of the other birds tittered audibly. </p>
         <p> "I only meant to say," <xpres>said</xpres> <char>the dodo</char> in a rather offended tone, <plot>"that I know of a house near
             here, where we could get the young lady and the rest of the party dried, and then we could
@@ -42,7 +42,7 @@
         <p> <char>the mouse</char> made no objection to this, and the whole party moved along the river bank, (for
             the pool had by this time began to flow out of the hall, and the edge of it was fringed with
             rushes and forget-me-nots,) in a slow procession, <char>the dodo</char> leading the way. After a time <char>the
-                Dodo</char> became impatient, and, leaving <char>the Duck</char> to bring up the rest of the party, moved on at a
+                Dodo</char> became impatient, and, leaving <char species="nonhuman">the Duck</char> to bring up the rest of the party, moved on at a
             quicker pace with <char species="human">Alice</char>, the <char>Lory</char>, and the <char>Eaglet</char>, and soon brought them to a little cottage,
             and there they sat snugly by the fire, wrapped up in blankets, until the rest of the party had
             arrived, and they were all dry again. </p>
@@ -145,8 +145,8 @@
         <p> <litdev type="allit">She sat for some while sorrowful and silent</litdev>, but she was not long before she recovered her
             spirits, and began talking to herself again as usual: "I do wish some of them had stayed a
             <litdev type="allit">little longer!</litdev> and I was getting to be such friends with them—really <char>the lory</char> and I were
-            almost like sisters! and so was that dear little Eaglet! And then <char>the duck</char> and <char>the dodo</char>! How
-            nicely <char>the duck</char> sang to us as we came along through the water: and if the Dodo hadn't known
+            almost like sisters! and so was that dear little Eaglet! And then <char species="nonhuman">the Duck</char> and <char>the dodo</char>! How
+            nicely <char species="nonhuman">the Duck</char> sang to us as we came along through the water: and if the Dodo hadn't known
             the way to that nice little cottage, I don't know when we should have got dry again—" and
             there is no knowing how long she might have prattled on in this way, if she had not suddenly
             caught the sound of pattering feet. </p>
