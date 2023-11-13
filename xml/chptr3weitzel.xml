@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="alice_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<root><chapter>
+    <heading> Chapter III </heading>
+    <p> "The first thing I've got to do," said <char type = "main" species = "human">Alice</char> to herself, as she wandered about in the wood,
+        "is to grow to my right size, and the second thing is to find my way into that lovely garden.
+        I think that will be the best plan." </p>
+    <p> It sounded an excellent plan, no doubt, and very neatly and simply arranged: the only
+        difficulty was, that she had not the smallest idea how to set about it, and while she was
+        peering anxiously among the trees round her, a little sharp bark just over her head made her
+        look up in a great hurry. </p>
+    <p> An enormous <char type = "side" species = "nonhuman">puppy</char> was looking down at her with large round eyes, and feebly stretching out
+        one paw, trying to reach her: "poor thing!" said <char type = "main" species = "human">Alice</char> in a coaxing tone, and she tried hard to whistle to it, but
+        she was terribly alarmed all the while at the thought that it might be hungry, in which case
+        it would probably devour her in spite of all her coaxing. Hardly knowing what she did, she
+        picked up a little bit of stick, and held it out to the <char type = "side" species = "nonhuman">puppy:</char> whereupon the <char type = "side" species = "nonhuman">puppy</char> jumped into
+        the air off all its feet at once, and with a yelp of delight rushed at the stick, and made
+        believe to worry it then <char type = "main" species = "human">Alice</char> dodged behind a great thistle to keep herself from being run
+        over, and, the moment she appeared at the other side, the <char type = "side" species = "nonhuman">puppy</char> made another dart at the
+        stick, and tumbled head over heels in its hurry to get hold: then <char type = "main" species = "human">Alice</char>, thinking it was very
+        like having a game of play with a cart-horse, and expecting every moment to be trampled under
+        its feet, ran round the thistle again: then the <char type = "side" species = "nonhuman">puppy</char> begin a series of short charges at the
+        stick, running a very little way forwards each time and a long way back, and barking hoarsely
+        all the while, till at last it sat down a good way off, panting, with its tongue hanging out
+        of its mouth, and its great eyes half shut.
+    </p>
+    <p> This seemed to <char type = "main" species = "human">Alice</char> a good opportunity for making her escape. She set off at once, and ran
+        till the <char type = "side" species = "nonhuman">puppy's</char> bark sounded quite faint in the distance, and till she was quite tired and
+        out of breath. </p>
+    <p> "And yet what a dear little <char type = "side" species = "nonhuman">puppy</char> it was!" said <char type = "main" species = "human">Alice</char>, as she leant against a buttercup to
+        rest herself, and fanned herself with her hat. "I should have liked teaching it tricks, if—if
+        I'd only been the right size to do it! Oh! I'd nearly forgotten that I've got to grow up
+        again! Let me see; how <i>is</i> it to be managed? I suppose I ought to eat or drink something
+        or other, but the great question is what?" </p> 
+    <p> The great question certainly was, what? <char type = "main" species = "human">Alice</char> looked all round her at the flowers and the
+        blades of grass but could not see anything that looked like the right thing to eat under the
+        circumstances. There was a large mushroom near her, about the same height as herself, and when
+        she had looked under it, and on both sides of it, and behind it, it occurred to her to look
+        and see what was on the top of it. </p>
+    <p> She stretched herself up on tiptoe, and peeped over the edge of the mushroom, and her eyes immediately met
+        those of a large blue <char type = "side" species = "nonhuman">caterpillar</char>, which was sitting with its arms folded, quietly smoking a
+        long hookah, and taking not the least notice of her or of anything else. </p>
+    <image source="au-images/image_049.jpg"/>
+    <p> For some time they looked at each other in silence: at last the <char type = "side" species = "nonhuman">caterpillar</char> took the hookah
+        out of its mouth, and languidly addressed her. </p>
+    <p> "Who are you?" said the <char type = "side" species = "nonhuman">caterpillar</char>. </p>
+    <p> This was not an encouraging opening for a conversation: <char type = "main" species = "human">Alice</char> replied rather shyly, "I—I
+        hardly know, sir, just at present—at least I know who I was when I got up this morning, but I
+        think I must have been changed several times since that." </p>
+    <p> "What do you mean by that?" said the <char type = "side" species = "nonhuman">caterpillar</char>, "explain yourself!" </p>
+    <p> "I ca'n't explain <uline>myself</uline>, I'm afraid, sir," said <char type = "main" species = "human">Alice</char>, "because I'm not myself, you see." </p>
+    <p> "I don't see," said the <char type = "side" species = "nonhuman">caterpillar</char>. </p>
+    <p> "I'm afraid I can't put it more clearly," <char type = "main" species = "human">Alice</char> replied very politely, "for I ca'n't
+        understand it myself, and really to be so many different sizes in one day is very confusing." </p>
+    <p> "It isn't," said the <char type = "side" species = "nonhuman">caterpillar</char>. </p>
+    <p> "Well, perhaps you haven't found it so yet," said <char type = "main" species = "human">Alice</char>, "but when you have to turn into a
+        chrysalis, you know, and then after that into a butterfly, I should think it'll feel a little
+        queer, don't you think so?" </p>
+    <p> "Not a bit," said the <char type = "side" species = "nonhuman">caterpillar</char>. </p>
+    <p> "All I know is," said <char type = "main" species = "human">Alice</char>, "it would feel queer to <uline>me</uline>." </p>
+    <p> "<uline>You</uline>!" said the <char type = "side" species = "nonhuman">caterpillar</char> contemptuously, "who are you?" </p>
+    <p> Which brought them back again to the beginning of the conversation: <char type = "main" species = "human">Alice</char> felt a little
+        irritated at the <char type = "side" species = "nonhuman">caterpillar</char> making such very short remarks, and she drew herself up and said
+        very gravely "I think you ought to tell me who <uline>you</uline> are, first." </p>
+    <p> "Why?" said the <char type = "side" species = "nonhuman">caterpillar</char>. </p>
+    <p> Here was another puzzling question: and as <char type = "main" species = "human">Alice</char> had no reason ready, and the <char type = "side" species = "nonhuman">caterpillar</char> seemed to be in a
+        very bad temper, she turned round and walked away. </p>
+    <p> "Come back!" the <char type = "side" species = "nonhuman">caterpillar</char> called after her, "I've something important to say!" </p>
+    <p> This sounded promising: <char type = "main" species = "human">Alice</char> turned and came back again. </p>
+    <p> "Keep your temper," said the <char type = "side" species = "nonhuman">caterpillar</char>. </p>
+    <p> "Is that all?" said <char type = "main" species = "human">Alice</char>, swallowing down her anger as well as she could. </p>
+    <p> "No," said the <char type = "side" species = "nonhuman">caterpillar</char>. </p>
+    <p> <char type = "main" species = "human">Alice</char> thought she might as well wait, as she had nothing else to do, and perhaps after all
+        the <char type = "side" species = "nonhuman">caterpillar</char> might tell her something worth hearing. For some minutes it puffed away at its
+        hookah without speaking, but at last it unfolded its arms, took the hookah out of its mouth
+        again, and said "so you think you're changed, do you?" </p>
+    <p> "Yes, sir," said <char type = "main" species = "human">Alice</char>, "I ca'n't remember the things I used to know—I've tried to say "How
+        doth the little busy bee" and it came all different!" </p>
+    <p> "Try and repeat "You are old, father William"," said the <char type = "side" species = "nonhuman">caterpillar</char>. </p>
+    <p> <char type = "main" species = "human">Alice</char> folded her hands, and began: </p>
+    <image source="au-images/image_052.jpg"/>
+    <p>
+        
+    </p>
+    <p class="center"> 1. </p>
+    <div class="poem">
+        <div class="stanza">
+            <l indent="i0">"You are old, father William," the young man said,</l>
+            <l indent="i2">"And your hair is exceedingly white:</l>
+            <l indent="i0">And yet you incessantly stand on your head—</l>
+            <l indent="i2">Do you think, at your age, it is right?"</l>
+        </div>
+    </div> 
+    <p class="center"> 2. </p>
+    <div class="poem">
+        <div class="stanza">
+            <l indent="i0">"In my youth," father William replied to his son,</l>
+            <l indent="i2">"I feared it <uline>might</uline> injure the brain</l>
+            <l indent="i0">But now that I'm perfectly sure I have none,</l>
+            <l indent="i2">Why, I do it again and again."</l>
+        </div>
+    </div>
+    <image source="au-images/image_054.jpg"/>
+    <p>
+        
+    </p>
+    <p class="center"> 3. </p>
+    <div class="poem">
+        <div class="stanza">
+            <l indent="i0">"You are old," said the youth, "as I mentioned before,</l>
+            <l indent="i2">And have grown most uncommonly fat:</l>
+            <l indent="i0">Yet you turned a back-somersault in at the door—</l>
+            <l indent="i2">Pray what is the reason of that?"</l>
+        </div>
+    </div>
+    <p class="center"> 4. </p>
+    <div class="poem">
+        <div class="stanza">
+            <l indent="i0">"In my youth," said the sage, as he shook his gray locks,</l>
+            <l indent="i2">"I kept all my limbs very supple,</l>
+            <l indent="i0">By the use of this ointment, five shillings the box—</l>
+            <l indent="i2">Allow me to sell you a couple."</l>
+        </div>
+    </div>
+    <image source="au-images/image_056.jpg"/>
+    <p>
+        
+    </p>
+    <p class="center"> 5. </p>
+    <div class="poem">
+        <div class="stanza">
+            <l indent="i0">"You are old," said the youth, "and your jaws are too weak</l>
+            <l indent="i2">For anything tougher than suet:</l>
+            <l indent="i0">Yet you eat all the goose, with the bones and the beak—</l>
+            <l indent="i2">Pray, how did you manage to do it?"</l>
+        </div>
+    </div>
+    <p class="center"> 6. </p>
+    <div class="poem">
+        <div class="stanza">
+            <l indent="i0">"In my youth," said the old man, "I took to the law,</l>
+            <l indent="i2">And argued each case with my wife,</l>
+            <l indent="i0">And <uline>the muscular strength</uline>, <uline>which it
+                gave to my jaw</uline>,</l>
+            <l indent="i2">Has lasted the rest of my life."</l>
+        </div>
+    </div>
+    <image source="au-images/image_058.jpg"/>
+    <p>
+        
+    </p>
+    <p class="center"> 7. </p>
+    <div class="poem">
+        <div class="stanza">
+            <l indent="i0">"You are old," said the youth; "one would hardly suppose</l>
+            <l indent="i2">That your eye was as steady as ever:</l>
+            <l indent="i0">Yet you balanced an eel on the end of your nose—</l>
+            <l indent="i2">What made you so <uline>awfully</uline> clever?"</l>
+        </div>
+    </div>
+    <p class="center"> 8. </p>
+    <div class="poem">
+        <div class="stanza">
+            <l indent="i0">"I have answered three questions, and that is enough,"</l>
+            <l indent="i2">Said his father, "don't give yourself airs!</l>
+            <l indent="i0">Do you think I can listen all day to such stuff?</l>
+            <l indent="i2">Be off, or I'll kick you down stairs!"</l>
+        </div>
+    </div>
+    <p>
+        
+    </p>
+    <p> "That is not said right," said the <char type = "side" species = "nonhuman">caterpillar</char>. </p>
+    <p> "Not quite right, I'm afraid," said <char type = "main" species = "human">Alice</char> timidly, "some of the words have got altered." </p>
+    <p> "It is wrong from beginning to end," said the <char type = "side" species = "nonhuman">caterpillar</char> decidedly, and there was silence
+        for some minutes: the <char type = "side" species = "nonhuman">caterpillar</char> was the first to speak. </p>
+    <p> "What size do you want to be?" it asked. </p>
+    <p> "Oh, I'm not particular as to size," <char type = "main" species = "human">Alice</char> hastily replied, "only one doesn't like changing
+        so often, you know." </p>
+    <p> "Are you content now?" said the <char type = "side" species = "nonhuman">caterpillar</char>. </p>
+    <p> "Well, I should like to be a <uline>little</uline> larger, sir, if you wouldn't
+        mind," said <char type = "main" species = "human">Alice</char>, "three inches is such a wretched height to be." </p>
+    <p> "It is a very good height indeed!" said the <char type = "side" species = "nonhuman">caterpillar</char> loudly and angrily, rearing itself
+        straight up as it spoke (it was exactly three inches high). </p>
+    <p> "But I'm not used to it!" pleaded poor <char type = "main" species = "human">Alice</char> in a piteous tone, and she thought to herself
+        "I wish the creatures wouldn't be so easily offended!" </p>
+    <p> "You'll get used to it in time," said the <char type = "side" species = "nonhuman">caterpillar</char>, and it put the hookah into its mouth,
+        and began smoking again.
+    </p> 
+    <p> This time <char type = "main" species = "human">Alice</char> waited quietly until it chose to speak again: in a few minutes the
+        <char type = "side" species = "nonhuman">caterpillar</char> took the hookah out of its mouth, and got down off the mushroom, and crawled away
+        into the grass, merely remarking as it went; "the top will make you grow taller, and the stalk
+        will make you grow shorter." </p>
+    <p> "The top of <uline>what</uline>? the stalk of <uline>what</uline>?" thought
+        <char type = "main" species = "human">Alice</char>. </p>
+    <image source="au-images/image_061.jpg"/>
+    <p> "Of the mushroom," said the <char type = "side" species = "nonhuman">caterpillar</char>, just as if she had asked it aloud, and in another
+        moment was out of sight. </p>
+    <p> <char type = "main" species = "human">Alice</char> remained looking thoughtfully at the mushroom for a minute, and then picked it and
+        carefully broke it in two, taking the stalk in one hand, and the top in the other. </p>
+    <trans><p> "<uline>Which</uline> does the stalk do?" she said, and nibbled a little bit of it
+        to try; the next moment she felt a violent blow on her chin: it had struck her foot!
+    </p></trans>
+    <p> She was a good deal frightened by this very sudden change, but as she did not shrink any
+        further, and had not dropped the top of the mushroom, she did not give up hope yet. There was
+        hardly room to open her mouth, with her chin pressing against her foot, but she did it at
+        last, and managed to bite off a little bit of the top of the mushroom. </p>
+    
+    <trans><p> "Come! my head's free at last!" said <char type = "main" species = "human">Alice</char> in a tone of delight, which changed into alarm in
+        another moment, when she found that her shoulders were nowhere to be seen: she looked down
+        upon an immense length of neck, which seemed to rise like a stalk out of a sea of green leaves
+        that lay far below her. </p></trans>
+    <image source="au-images/image_062.jpg"/>  
+    <p> 
+        
+    </p>
+    <p> "What <uline>can</uline> all that green stuff be?" said <char type = "main" species = "human">Alice</char>, "and where <uline>have</uline> my shoulders got to? And oh! my poor hands! how is it I ca'n't see
+        you?" She was moving them about as she spoke, but no result seemed to follow, except a little
+        rustling among the leaves. Then she tried to bring her head down to her hands, and was
+        delighted to find that her neck would bend about easily in every direction, like a serpent.
+        She had just succeeded in bending it down in a beautiful zig-zag, and was going to dive in
+        among the leaves, which she found to be the tops of the trees of the wood she had been
+        wandering in, when a sharp hiss made her draw back: a large <char type = "side" species = "nonhuman">pigeon</char> had flown into her face,
+        and was violently beating her with its wings. </p>
+    <image source="au-images/image_063.jpg"/>
+    <p> "Serpent!" screamed the <char type = "side" species = "nonhuman">pigeon</char>. </p>
+    <p> "I'm <uline>not</uline> a serpent!" said <char type = "main" species = "human">Alice</char> indignantly, "let me alone!"
+    </p>
+    <p> "I've tried every way!" the <char type = "side" species = "nonhuman">pigeon</char> said desperately, with a kind of sob: "nothing seems to
+        suit 'em!" </p>
+    <p> "I haven't the least idea what you mean," said <char type = "main" species = "human">Alice</char>. </p>
+    <p> "I've tried the roots of trees, and I've tried banks, and I've tried hedges," the <char type = "side" species = "nonhuman">pigeon</char>
+        went on without attending to her, "but them serpents! There's no pleasing 'em!" </p>
+    <p> <char type = "main" species = "human">Alice</char> was more and more puzzled, but she thought there was no use in saying anything till
+        the <char type = "side" species = "nonhuman">pigeon</char> had finished. </p>
+    <p> "As if it wasn't trouble enough hatching the eggs!" said the <char type = "side" species = "nonhuman">pigeon</char>, "without being on the
+        look out for serpents, day and night! Why, I haven't had a wink of sleep these three weeks!" </p>
+    <p> "I'm very sorry you've been annoyed," said <char type = "main" species = "human">Alice</char>, beginning to see its meaning. </p>
+    <p> "And just as I'd taken the highest tree in the wood," said the <char type = "side" species = "nonhuman">pigeon</char> raising its voice to a
+        shriek, "and was just thinking I was free of 'em at last, they must needs come down from the
+        sky! Ugh! Serpent!" </p>
+    <p> "But I'm <uline>not</uline> a serpent," said <char type = "main" species = "human">Alice</char>, "I'm a—I'm a—" </p>
+    <p> "Well! <uline>What</uline> are you?" said the <char type = "side" species = "nonhuman">pigeon</char>, "I see you're trying to invent
+        something."
+    </p>
+    <p> "I—I'm a little girl," said <char type = "main" species = "human">Alice</char>, rather doubtfully, as she remembered the number of
+        changes she had gone through. </p>
+    <p> "A likely story indeed!" said the <char type = "side" species = "nonhuman">pigeon</char>, "I've seen a good many of them in my time, but
+        never <uline>one</uline> with such a neck as yours! No, you're a serpent, I know <uline>that</uline> well enough! I suppose you'll tell me next that you never tasted an
+        egg!" </p>
+    <p> "I <uline>have</uline> tasted eggs, certainly," said <char type = "main" species = "human">Alice</char>, who was a very truthful
+        child, "but indeed I do'n't want any of yours. I do'n't like them raw." </p>
+    <p> "Well, be off, then!" said the <char type = "side" species = "nonhuman">pigeon</char>, and settled down into its nest again. <char type = "main" species = "human">Alice</char> crouched
+        down among the trees, as well as she could, as her neck kept getting entangled among the
+        branches, and several times she had to stop and untwist it. Soon she remembered the pieces of
+        mushroom which she still held in her hands, and set to work very carefully, nibbling first at
+        one and then at the other, and growing sometimes taller and sometimes shorter, until she had
+        succeeded in bringing herself down to her usual size. </p>
+    <p> It was so long since she had been of the right size that it felt quite strange at first, but she got quite
+        used to it in a minute or two, and began talking to herself as usual: "well! there's half my
+        plan done now! How puzzling all these changes are! I'm never sure what I'm going to be, from
+        one minute to another! However, I've got to my right size again: the next thing is, to get
+        into that beautiful garden—how <uline>is</uline> that to be done, I wonder?" </p>
+    <p> Just as she said this, she noticed that one of the trees had a doorway leading right into
+        it. "That's very curious!" she thought, "but everything's curious today: I may as well go in."
+        And in she went. </p>
+    <p> Once more she found herself in the long hall, and close to the little glass table: "now,
+        I'll manage better this time" she said to herself, and began by taking the little golden key,
+        and unlocking the door that led into the garden. Then she set to work eating the pieces of
+        mushroom till she was about fifteen inches high: then she walked down the little passage: and
+        <uline>then</uline>—she found herself at last in the beautiful garden, among the
+        bright flowerbeds and the cool fountains. </p>
+    <image source="au-images/image_067.jpg"/>
+    
+    <image source="au-images/image_068.jpg"/>
+    <p>
+        
+    </p>
+</chapter></root>
