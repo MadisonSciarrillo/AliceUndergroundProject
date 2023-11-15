@@ -4,7 +4,7 @@
   <image source="au-images/image_001.jpg"/>
   <chapter>
     <heading> Chapter I </heading>
-    <p> <char species="human" type="main">Alice</char> was beginning to get very tired of sitting by <char species="human" type="side">her sister</char> on the bank, and of having
+    <p> <char species="human" type="side">Alice</char> was beginning to get very tired of sitting by <char species="human" type="side">her sister</char> on the bank, and of having
       nothing to do: once or twice she had peeped into the book <char species="human" type="side">her sister</char> was reading, but it had
       no pictures or conversations in it, and where is the use of a book, thought <char species="human" type="main">Alice</char>, without
       pictures or conversations? So she was considering in her own mind, (as well as she could, for
@@ -272,53 +272,53 @@
     <p> They were indeed a curious looking party that assembled on the bank—the birds with draggled
       feathers, the animals with their fur clinging close to them—all dripping wet, cross, and
       uncomfortable. The first question of course was, how to get dry: they had a consultation about
-      this, and <char>Alice</char> hardly felt at all surprised at finding herself talking familiarly with the
+      this, and <char species="human" type="main">Alice</char> hardly felt at all surprised at finding herself talking familiarly with the
       birds, as if she had known them all her life. Indeed, she had quite a long argument with the
-      <char>Lory</char>, who at last turned sulky, and would only say "I am older than you, and must know best,"
-      and this <char>Alice</char> would not admit without knowing how old the <char>Lory</char> was, and as the <char>Lory</char>
+      <char species="nonhuman" type="side">Lory</char>, who at last turned sulky, and would only say "I am older than you, and must know best,"
+      and this <char species="human" type="main">Alice</char> would not admit without knowing how old the <char species="nonhuman" type="side">Lory</char> was, and as the <char species="nonhuman" type="side">Lory</char>
       positively refused to tell its age, there was nothing more to be said.
     </p>
-    <p> At last <char>the mouse</char>, who seemed to have some authority among them, called out "sit down, all
+    <p> At last <char species="nonhuman" type="side">the mouse</char>, who seemed to have some authority among them, called out "sit down, all
       of you, and attend to me! I'll soon make you dry enough!" They all sat down at once,
-      shivering, in a large ring, <char>Alice</char> in the middle, with her eyes anxiously fixed on <char>the mouse</char>,
+      shivering, in a large ring, <char species="human" type="main">Alice</char> in the middle, with her eyes anxiously fixed on <char species="nonhuman" type="side">the mouse</char>,
       for she felt sure she would catch a bad cold if she did not get dry very soon. </p>
-    <p> "Ahem!" said <char>the mouse</char>, with a self-important air, "are you all ready? This is the driest
+    <p> "Ahem!" said <char species="nonhuman" type="side">the mouse</char>, with a self-important air, "are you all ready? This is the driest
       thing I know. Silence all round, if you please! </p>
     <p> "<char>William the Conqueror</char>, whose cause was favoured by the pope, was soon submitted to by the
       English, who wanted leaders, and had been of late much accustomed to usurpation and conquest.
       <char>Edwin and Morcar</char>, the earls of Mercia and Northumbria—" </p>
-    <p> "Ugh!" said the <char>Lory</char> with a shiver. </p>
-    <p> "I beg your pardon?" said <char>the mouse</char>, frowning, but very politely, "did you speak?" </p>
-    <p> "Not I!" said the <char>Lory</char> hastily. </p>
-    <p> "I thought you did," said <char>the mouse</char>, "I proceed. <char>Edwin and Morcar</char>, the earls of Mercia and
+    <p> "Ugh!" said the <char species="nonhuman" type="side">Lory</char> with a shiver. </p>
+    <p> "I beg your pardon?" said <char species="nonhuman" type="side">the mouse</char>, frowning, but very politely, "did you speak?" </p>
+    <p> "Not I!" said the <char species="nonhuman" type="side">Lory</char> hastily. </p>
+    <p> "I thought you did," said <char species="nonhuman" type="side">the mouse</char>, "I proceed. <char>Edwin and Morcar</char>, the earls of Mercia and
       Northumbria, declared for him; and even <char>Stigand</char>, the patriotic archbishop of Canterbury, found it
       advisable to go with <char>Edgar Atheling</char> to meet <char>William</char> and offer him the crown. <char>William's</char> conduct
-      was at first moderate—how are you getting on now, dear?" said <char>the mouse</char>, turning to <char>Alice</char> as
+      was at first moderate—how are you getting on now, dear?" said <char species="nonhuman" type="side">the mouse</char>, turning to <char species="human" type="main">Alice</char> as
       it spoke. </p>
-    <p> "As wet as ever," said poor <char>Alice</char>, "it doesn't seem to dry me at all." </p>
+    <p> "As wet as ever," said poor <char species="human" type="main">Alice</char>, "it doesn't seem to dry me at all." </p>
     <p> "In that case," said the <char>Dodo</char> solemnly, rising to his feet, "I move that the meeting
       adjourn, for the immediate adoption of more energetic remedies—" </p>
-    <p> "Speak English!" said <char>the Duck</char>, "I don't know the meaning of half those long words, and
-      what's more, I don't believe you do either!" And <char>the Duck</char> quacked a comfortable laugh to
+    <p> "Speak English!" said <char species="nonhuman" type="side">the duck</char>, "I don't know the meaning of half those long words, and
+      what's more, I don't believe you do either!" And <char species="nonhuman" type="side">the duck</char> quacked a comfortable laugh to
       itself. Some of the other birds tittered audibly. </p>
-    <p> "I only meant to say," said <char>the dodo</char> in a rather offended tone, "that I know of a house near
+    <p> "I only meant to say," said <char species="nonhuman" type="side">the dodo</char> in a rather offended tone, "that I know of a house near
       here, where we could get the young lady and the rest of the party dried, and then we could
       listen comfortably to the story which I think you were good enough to promise to tell us,"
-      bowing gravely to <char>the mouse</char>.
+      bowing gravely to <char species="nonhuman" type="side">the mouse</char>.
     </p>
-    <p> <char>the mouse</char> made no objection to this, and the whole party moved along the river bank, (for
+    <p> <char species="nonhuman" type="side">the mouse</char> made no objection to this, and the whole party moved along the river bank, (for
       the pool had by this time began to flow out of the hall, and the edge of it was fringed with
-      rushes and forget-me-nots,) in a slow procession, <char>the dodo</char> leading the way. After a time <char>the
-      Dodo</char> became impatient, and, leaving <char>the Duck</char> to bring up the rest of the party, moved on at a
-      quicker pace with <char>Alice</char>, the <char>Lory</char>, and the <char>Eaglet</char>, and soon brought them to a little cottage,
+      rushes and forget-me-nots,) in a slow procession, <char species="nonhuman" type="side">the dodo</char> leading the way. After a time <char>the
+      Dodo</char> became impatient, and, leaving <char species="nonhuman" type="side">the duck</char> to bring up the rest of the party, moved on at a
+      quicker pace with <char species="human" type="main">Alice</char>, the <char species="nonhuman" type="side">Lory</char>, and the <char>Eaglet</char>, and soon brought them to a little cottage,
       and there they sat snugly by the fire, wrapped up in blankets, until the rest of the party had
       arrived, and they were all dry again. </p>
-    <p> Then they all sat down again in a large ring on the bank, and begged <char>the mouse</char> to begin his
+    <p> Then they all sat down again in a large ring on the bank, and begged <char species="nonhuman" type="side">the mouse</char> to begin his
       story. </p>
-    <p> "Mine is a long and a sad tale!" said <char>the mouse</char>, turning to <char>Alice</char>, and sighing. </p>
-    <p> "It <uline>is</uline> a long tail, certainly," said <char>Alice</char>, looking down with wonder
-      at <char>the mouse</char>'s tail, which was coiled nearly all round the party, "but why do you call it
-      sad?" and she went on puzzling about this as <char>the mouse</char> went on speaking, so that her idea of
+    <p> "Mine is a long and a sad tale!" said <char species="nonhuman" type="side">the mouse</char>, turning to <char species="human" type="main">Alice</char>, and sighing. </p>
+    <p> "It <uline>is</uline> a long tail, certainly," said <char species="human" type="main">Alice</char>, looking down with wonder
+      at <char species="nonhuman" type="side">the mouse</char>'s tail, which was coiled nearly all round the party, "but why do you call it
+      sad?" and she went on puzzling about this as <char species="nonhuman" type="side">the mouse</char> went on speaking, so that her idea of
       the tale was something like this:
     </p>
     <image source="au-images/image_028.jpg"/>
@@ -377,43 +377,43 @@
       <l indent="">of that!</l> 
     </div>
     <!--we are NOT trying to do this better. leave as is or just replace with a high quality image-cv-->
-    <p> "You are not attending!" said <char>the mouse</char> to <char>Alice</char> severely, "what are you thinking of?" </p>
-    <p> "I beg your pardon," said <char>Alice</char> very humbly, "you had got to the fifth bend, I think?" </p>
-    <p> "I had not!" cried <char>the mouse</char>, sharply and very angrily. </p>
-    <p> "A knot!" said <char>Alice</char>, always ready to make herself useful, and looking anxiously about her,
+    <p> "You are not attending!" said <char species="nonhuman" type="side">the mouse</char> to <char species="human" type="main">Alice</char> severely, "what are you thinking of?" </p>
+    <p> "I beg your pardon," said <char species="human" type="main">Alice</char> very humbly, "you had got to the fifth bend, I think?" </p>
+    <p> "I had not!" cried <char species="nonhuman" type="side">the mouse</char>, sharply and very angrily. </p>
+    <p> "A knot!" said <char species="human" type="main">Alice</char>, always ready to make herself useful, and looking anxiously about her,
       "oh, do let me help to undo it!" </p>
-    <p> "I shall do nothing of the sort!" said <char>the mouse</char>, getting up and walking away from the
+    <p> "I shall do nothing of the sort!" said <char species="nonhuman" type="side">the mouse</char>, getting up and walking away from the
       party, "you insult me by talking such nonsense!" </p>
-    <p> "I didn't mean it!" pleaded poor <char>Alice</char>, "but you're so easily offended, you know." </p>
-    <p> <char>the mouse</char> only growled in reply. </p>
-    <p> "Please come back and finish your story!" <char>Alice</char> called after it, and the others all joined
-      in chorus "yes, please do!" but <char>the mouse</char> only shook its ears, and walked quickly away, and
+    <p> "I didn't mean it!" pleaded poor <char species="human" type="main">Alice</char>, "but you're so easily offended, you know." </p>
+    <p> <char species="nonhuman" type="side">the mouse</char> only growled in reply. </p>
+    <p> "Please come back and finish your story!" <char species="human" type="main">Alice</char> called after it, and the others all joined
+      in chorus "yes, please do!" but <char species="nonhuman" type="side">the mouse</char> only shook its ears, and walked quickly away, and
       was soon out of sight. </p>
-    <p> "What a pity it wouldn't stay!" sighed <char>the lory</char>, and an old Crab took the opportunity of
+    <p> "What a pity it wouldn't stay!" sighed <char species="nonhuman" type="side">the lory</char>, and an old Crab took the opportunity of
       saying to its daughter "Ah, my dear! let this be a lesson to you never to lose <uline>your</uline>
       temper!" "Hold your tongue, Ma!" said the young Crab, a little snappishly, "you're enough to
       try the patience of an oyster!" </p>
-    <p> "I wish I had our <char>Dinah</char> here, I know I do!" said <char>Alice</char> aloud, addressing no one in
+    <p> "I wish I had our <char species="nonhuman" type="side">Dinah</char> here, I know I do!" said <char species="human" type="main">Alice</char> aloud, addressing no one in
       particular, "she'd soon fetch it back!" </p>
-    <p> "And who is <char>Dinah</char>, if I might venture to ask the question?" said <char>the lory</char>. </p>
+    <p> "And who is <char species="nonhuman" type="side">Dinah</char>, if I might venture to ask the question?" said <char species="nonhuman" type="side">the lory</char>. </p>
     <image source="au-images/image_031.jpg"/>
-    <p> <char>Alice</char> replied eagerly, for she was always ready to talk about her pet, "<char>Dinah</char>'s our cat. And
+    <p> <char species="human" type="main">Alice</char> replied eagerly, for she was always ready to talk about her pet, "<char species="nonhuman" type="side">Dinah</char>'s our cat. And
       she's such a capital one for catching mice, you can't think! And oh! I wish you could see her
       after the birds! Why, she'll eat a little bird as soon as look at it!" </p>
     <p> This answer caused a remarkable sensation among the party: some of the birds hurried off at
       once; one old magpie began wrapping itself up very carefully, remarking "I really must be
       getting home: the night air does not suit my throat," and a canary called out in a trembling
       voice to its children "come away from her, my dears, she's no fit company for you!" On various
-      pretexts, they all moved off, and <char>Alice</char> was soon left alone. </p>
+      pretexts, they all moved off, and <char species="human" type="main">Alice</char> was soon left alone. </p>
     <image source="au-images/image_033.jpg"/>
     <p>
       
     </p>
     <p> She sat for some while sorrowful and silent, but she was not long before she recovered her
       spirits, and began talking to herself again as usual: "I do wish some of them had stayed a
-      little longer! and I was getting to be such friends with them—really <char>the lory</char> and I were
-      almost like sisters! and so was that dear little Eaglet! And then <char>the duck</char> and <char>the dodo</char>! How
-      nicely <char>the duck</char> sang to us as we came along through the water: and if the Dodo hadn't known
+      little longer! and I was getting to be such friends with them—really <char species="nonhuman" type="side">the lory</char> and I were
+      almost like sisters! and so was that dear little Eaglet! And then <char species="nonhuman" type="side">the duck</char> and <char species="nonhuman" type="side">the dodo</char>! How
+      nicely <char species="nonhuman" type="side">the duck</char> sang to us as we came along through the water: and if the Dodo hadn't known
       the way to that nice little cottage, I don't know when we should have got dry again—" and
       there is no knowing how long she might have prattled on in this way, if she had not suddenly
       caught the sound of pattering feet. </p>
@@ -421,31 +421,31 @@
       went, as if it had lost something, and she heard it muttering to itself "the Marchioness! the
       Marchioness! oh my dear paws! oh my fur and whiskers! She'll have me executed, as sure as
         ferrets are ferrets!
-      Where <uline>can</uline> I have dropped them, I wonder?" <char>Alice</char> guessed in a moment
+      Where <uline>can</uline> I have dropped them, I wonder?" <char species="human" type="main">Alice</char> guessed in a moment
       that it was looking for the nosegay and the pair of white kid gloves, and she began hunting
       for them, but they were now nowhere to be seen—everything seemed to have changed since her
       swim in the pool, and her walk along the river-bank with its fringe of rushes and
       forget-me-nots, and the glass table and the little door had vanished. </p>
-    <p> Soon <char>the rabbit</char> noticed <char>Alice</char>, as she stood looking curiously about her, and at once said in
+    <p> Soon <char species="nonhuman" type="side">rabbit</char> noticed <char species="human" type="main">Alice</char>, as she stood looking curiously about her, and at once said in
       a quick angry tone, "why, Mary Ann! what <uline>are</uline> you doing out here? Go
       home this moment, and look on my dressing-table for my gloves and nosegay, and fetch them
-      here, as quick as you can run, do you hear?" and <char>Alice</char> was so much frightened that she ran off
+      here, as quick as you can run, do you hear?" and <char species="human" type="main">Alice</char> was so much frightened that she ran off
       at once, without saying a
-      word, in the direction which <char>the rabbit</char> had pointed out. </p>
+      word, in the direction which <char species="nonhuman" type="side">rabbit</char> had pointed out. </p>
     <p> She soon found herself in front of a neat little house, on the door of which was a bright
       brass plate with the name <b>W. RABBIT, ESQ.</b> She went in, and hurried upstairs, for fear
       she should meet the real Mary Ann and be turned out of the house before she had found the
-      gloves: she knew that one pair had been lost in the hall, "but of course," thought <char>Alice</char>, "it
+      gloves: she knew that one pair had been lost in the hall, "but of course," thought <char species="human" type="main">Alice</char>, "it
       has plenty more of them in its house. How queer it seems to be going messages for a rabbit! I
-      suppose <char>Dinah</char>'ll be sending me messages next!" And she began fancying the sort of things that
-      would happen: "Miss <char>Alice</char>! come here directly and get ready for your walk!" "Coming in a
-      minute, nurse! but I've got to watch this mousehole till <char>Dinah</char> comes back, and see that the
-      mouse doesn't get out—" "only I don't think," <char>Alice</char> went on, "that they'd let <char>Dinah</char> stop in
+      suppose <char species="nonhuman" type="side">Dinah</char>'ll be sending me messages next!" And she began fancying the sort of things that
+      would happen: "Miss <char species="human" type="main">Alice</char>! come here directly and get ready for your walk!" "Coming in a
+      minute, nurse! but I've got to watch this mousehole till <char species="nonhuman" type="side">Dinah</char> comes back, and see that the
+      mouse doesn't get out—" "only I don't think," <char species="human" type="main">Alice</char> went on, "that they'd let <char species="nonhuman" type="side">Dinah</char> stop in
       the house, if it began ordering people about like that!"
     </p>
     <image source="au-images/image_035.jpg"/>
     <p> By this time she had found her way into a tidy little room, with a table in the window on
-      which was a looking-glass and, (as <char>Alice</char> had hoped,) two or three pairs of tiny white kid
+      which was a looking-glass and, (as <char species="human" type="main">Alice</char> had hoped,) two or three pairs of tiny white kid
       gloves: she took up a pair of gloves, and was just going to leave the room, when her eye fell
       upon a little bottle that stood near the looking-glass: there was no label on it this time
       with the words "drink me," but nonetheless she uncorked it and put it to her lips: "I know
@@ -466,50 +466,50 @@
     <p>
       
     </p>
-    <p> Luckily for <char>Alice</char>, the little magic bottle had now had its full effect, and she grew no
+    <p> Luckily for <char species="human" type="main">Alice</char>, the little magic bottle had now had its full effect, and she grew no
       larger; still it was very uncomfortable, and as there seemed to be no sort of chance of ever
       getting out of the room again, no wonder she felt unhappy. "It was much pleasanter at home,"
-      thought poor <char>Alice</char>, "when one wasn't always growing larger and smaller, and being ordered
+      thought poor <char species="human" type="main">Alice</char>, "when one wasn't always growing larger and smaller, and being ordered
       about by mice and rabbits—I almost wish I hadn't gone down that rabbit-hole, and yet, and
       yet—it's rather curious, you know, this sort of life. I do wonder what <uline>can</uline> have happened to me! When I used to read fairy-tales, I fancied that sort of
       thing never happened, and now here I am in the middle of one! There out to be a book written
       about me, that there ought! and when I grow up I'll write one—but I'm grown up now" said she
       in a sorrowful tone, "at least there's no room to grow up any more <uline>here</uline>." </p>
     <image source="au-images/image_037.jpg"/>
-    <p> "But then," thought <char>Alice</char>, "shall I <uline>never</uline> get any older than I am now? That'll be a
+    <p> "But then," thought <char species="human" type="main">Alice</char>, "shall I <uline>never</uline> get any older than I am now? That'll be a
       comfort, one way—never to be an old woman—but then—always to have lessons to learn! Oh, I
       shouldn't like <uline>that</uline>!" </p>
-    <p> "Oh, you foolish <char>Alice</char>!" she said again, "how can you learn lessons in here? Why, there's
+    <p> "Oh, you foolish <char species="human" type="main">Alice</char>!" she said again, "how can you learn lessons in here? Why, there's
       hardly room for you, and no room at all for any lesson-books!" </p>
     <p> And so she went on, taking first one side, and then the other, and making quite a
       conversation of it altogether, but after a few minutes she heard a voice outside, which made
       her stop to listen. </p>
     <p> "Mary Ann! Mary Ann!" said the voice, "fetch me my gloves this moment!" Then came a little
-      pattering of feet on the stairs: <char>Alice</char> knew it was <char>the rabbit</char> coming to look for her, and she
+      pattering of feet on the stairs: <char species="human" type="main">Alice</char> knew it was <char species="nonhuman" type="side">rabbit</char> coming to look for her, and she
       trembled till she shook the house, quite forgetting that she was now about a thousand times as
-      large as <char>the rabbit</char>, and had no reason to be afraid of it. Presently <char>the rabbit</char> came to the
-      door, and tried to open it, but as it opened inwards, and <char>Alice</char>'s elbow was against it, the
-      attempt proved a failure. <char>Alice</char> heard it say to itself "then I'll go round and get in at the window." </p>
-    <p> "<uline>That</uline> you wo'n't!" thought <char>Alice</char>, and, after waiting till she fancied
-      she heard <char>the rabbit</char>, just under the window, she suddenly spread out her hand, and made a
+      large as <char species="nonhuman" type="side">rabbit</char>, and had no reason to be afraid of it. Presently <char species="nonhuman" type="side">rabbit</char> came to the
+      door, and tried to open it, but as it opened inwards, and <char species="human" type="main">Alice</char>'s elbow was against it, the
+      attempt proved a failure. <char species="human" type="main">Alice</char> heard it say to itself "then I'll go round and get in at the window." </p>
+    <p> "<uline>That</uline> you wo'n't!" thought <char species="human" type="main">Alice</char>, and, after waiting till she fancied
+      she heard <char species="nonhuman" type="side">rabbit</char>, just under the window, she suddenly spread out her hand, and made a
       snatch in the air. She did not get hold of anything, but she heard a little shriek and a fall
       and a crash of breaking glass, from which she concluded that it was just possible it had
       fallen into a cucumber-frame, or something of the sort. </p>
     <image source="au-images/image_040.jpg"/>
-    <p> Next came an angry voice—<char>the rabbit</char>'s—"Pat, Pat! where are you?" And then a voice she had
+    <p> Next came an angry voice—<char species="nonhuman" type="side">rabbit</char>'s—"Pat, Pat! where are you?" And then a voice she had
       never heard before, "shure then I'm here! digging for apples, anyway, yer honour!" </p>
-    <p> "Digging for apples indeed!" said <char>the rabbit</char> angrily, "here, come and help me out of <uline>this</uline>!"—Sound of more breaking glass. </p>
+    <p> "Digging for apples indeed!" said <char species="nonhuman" type="side">rabbit</char> angrily, "here, come and help me out of <uline>this</uline>!"—Sound of more breaking glass. </p>
     <p> "Now, tell me, Pat, what is that coming out of the window?" </p>
     <p> "Shure it's an arm, yer honour!" (He pronounced it "arrum".) </p>
     <p> "An arm, you goose! Who ever saw an arm that size? Why, it fills the whole window, don't you
       see?" </p>
     <p> "Shure, it does, yer honour, but it's an arm for all that." </p>
     <p> "Well, it's no business there: go and take it away!" </p>
-    <p> There was a long silence after this, and <char>Alice</char> could only hear whispers now and then, such
+    <p> There was a long silence after this, and <char species="human" type="main">Alice</char> could only hear whispers now and then, such
       as "shure I don't like it, yer honour, at all at all!" "do as I tell you, you coward!" and at
       last she spread out her hand again and made another snatch in the air. This time there were
         <uline>two</uline> little shrieks, and more breaking glass—"what a number of
-      cucumber-frames there must be!" thought <char>Alice</char>, "I wonder what they'll do next! As for pulling
+      cucumber-frames there must be!" thought <char species="human" type="main">Alice</char>, "I wonder what they'll do next! As for pulling
       me out of the window, I only wish they <uline>could</uline>! I'm sure <uline>I</uline> don't want to stop in here any longer!" </p>
     <p> She waited for some time without hearing anything more: at last came a rumbling of little cart-wheels, and
       the sound of a good many voices all talking together: she made out the words "where's the
@@ -519,7 +519,7 @@
       slate—oh, it's coming down! heads below!—" (a loud crash) "now, who did that?—it was Bill, I
       fancy—who's to go down the chimney?—nay, <uline>I</uline> sha'n't! <uline>you</uline> do it!—<uline>that</uline> I won't then—Bill's got to go down—here,
       Bill! the master says you've to go down the chimney!" </p>
-    <p> "Oh, so Bill's got to come down the chimney, has he?" said <char>Alice</char> to herself, "why, they seem
+    <p> "Oh, so Bill's got to come down the chimney, has he?" said <char species="human" type="main">Alice</char> to herself, "why, they seem
       to put everything upon Bill! I wouldn't be in Bill's place for a good deal: the fireplace is a
       pretty tight one, but I <uline>think</uline> I can kick a little!" </p>
     <p> She drew her foot as far down the chimney as she could, and waited till she heard a little animal (she
@@ -527,23 +527,23 @@
       then, saying to herself "this is Bill," she gave one sharp kick, and waited again to see what
       would happen next. </p>
     <image source="au-images/image_043.jpg"/>
-    <p> The first thing was a general chorus of "there goes Bill!" then <char>the rabbit</char>'s voice alone
+    <p> The first thing was a general chorus of "there goes Bill!" then <char species="nonhuman" type="side">rabbit</char>'s voice alone
       "catch him, you by the hedge!" then silence, and then another confusion of voices, "how was
       it, old fellow? what happened to you? tell us all about it." </p>
-    <p> Last came a little feeble squeaking voice, ("that's Bill" thought <char>Alice</char>,) which said "well,
+    <p> Last came a little feeble squeaking voice, ("that's Bill" thought <char species="human" type="main">Alice</char>,) which said "well,
       I hardly know—I'm all of a fluster myself—something comes at me like a Jack-in-the-box, and
       the next minute up I goes like a rocket!" "And so you did, old fellow!" said the other
         voices.
     </p>
-    <p> "We must burn the house down!" said the voice of <char>the rabbit</char>, and <char>Alice</char> called out as loud as
-      she could "if you do, I'll set <char>Dinah</char> at you!" This caused silence again, and while <char>Alice</char> was
-      thinking "but how can I get <char>Dinah</char> here?" she found to her great delight that she was getting
+    <p> "We must burn the house down!" said the voice of <char species="nonhuman" type="side">rabbit</char>, and <char species="human" type="main">Alice</char> called out as loud as
+      she could "if you do, I'll set <char species="nonhuman" type="side">Dinah</char> at you!" This caused silence again, and while <char species="human" type="main">Alice</char> was
+      thinking "but how can I get <char species="nonhuman" type="side">Dinah</char> here?" she found to her great delight that she was getting
       smaller: very soon she was able to get up out of the uncomfortable position in which she had
       been lying, and in two or three minutes more she was once more three inches high. </p>
     <p> She ran out of the house as quick as she could, and found quite a crowd of little animals
       waiting outside—guinea-pigs, white mice, squirrels, and "Bill" a little green lizard, that was
       being supported in the arms of one of the guinea-pigs, while another was giving it something
-      out of a bottle. They all made a rush at her the moment she appeared, but <char>Alice</char> ran her
+      out of a bottle. They all made a rush at her the moment she appeared, but <char species="human" type="main">Alice</char> ran her
       hardest, and soon found herself in a thick wood. </p>
     <image source="au-images/image_045.jpg"/>
 
@@ -845,7 +845,7 @@
     <p><quote> "Yes, it <uline>is</uline> his business!"</quote> said <char species="nonhuman">Five</char>,<quote> "and I'll tell him: it was for
       bringing in tulip-roots to the cook instead of potatoes." </quote></p>
     <p> <char species="nonhuman">Seven </char>flung down his brush, and had just begun <quote>"well! Of all the unjust things—"</quote> when his
-      eye fell upon <char species="human">Alice</char>, and he stopped suddenly; the others looked round, and all of them took
+      eye fell upon <char species="human" type="main">Alice</char>, and he stopped suddenly; the others looked round, and all of them took
       off their hats and bowed low. </p>
     <p> <quote>"Would you tell me, please,"</quote> <xpres>said </xpres><char  species="human">Alice</char> timidly, <quote>"why you are painting those roses?" </quote></p>
     <p> Five and Seven looked at Two, but said nothing: Two began, in a low voice, <quote>"why, Miss, the
@@ -853,7 +853,7 @@
       the Queen was to find it out, we should all have our heads cut off. So, you see, we're doing
       our best, before she comes, to—" At this moment Five, who had been looking anxiously across
       the garden called out <quote>"the Queen! the Queen!"</quote> </quote>and the three gardeners instantly threw themselves flat upon
-      their faces. There was a sound of many footsteps, and Alice looked round, eager to see <char species="human">the
+      their faces. There was a sound of many footsteps, and Alice looked round, eager to see <char species="human" type="main">the
         Queen</char>. </p>
     <p> First came ten soldiers carrying clubs; these were all shaped like the three gardeners, flat
       and oblong, with their hands and feet at the corners: next the ten courtiers; these were all
@@ -865,24 +865,24 @@
       the Knave of Hearts, carrying the King's crown on a cushion, and, last of all this grand
       procession, came <b>THE KING AND QUEEN OF HEARTS</b>. </p>
     <image source="au-images/image_071.jpg"/>
-    <p> When the procession came opposite to <char  species="human">Alice</char>, they all stopped and looked at her, and <char species="human">the Queen</char> <xpres>said </xpres>severely<quote> "who
+    <p> When the procession came opposite to <char  species="human">Alice</char>, they all stopped and looked at her, and <char species="human" type="main">the Queen</char> <xpres>said </xpres>severely<quote> "who
       is this?" </quote>She <xpres>said</xpres> it to the Knave of Hearts, who only bowed and smiled in reply. </p>
-    <p><quote> "Idiot!"</quote> <xpres>said </xpres><char species="human" >the Queen</char>, turning up her nose, and asked Alice "what's your name?" </p>
-    <p> <quote>"My name is <char species="human">Alice</char>, so please your Majesty,"</quote> <xpres>said </xpres><char  species="human">Alice</char> boldly, for she thought to herself
+    <p><quote> "Idiot!"</quote> <xpres>said </xpres><char species="human" type="main" >the Queen</char>, turning up her nose, and asked Alice "what's your name?" </p>
+    <p> <quote>"My name is <char species="human" type="main">Alice</char>, so please your Majesty,"</quote> <xpres>said </xpres><char  species="human">Alice</char> boldly, for she thought to herself
       <quote> "why, they're only a pack of cards! I needn't be afraid of them!"</quote> </p>
-    <p> <quote>"Who are these?" </quote><xpres>said</xpres> the <char species="human">Queen</char>, pointing to the<char species="nonhuman"> three gardeners</char> lying round the rose tree,
+    <p> <quote>"Who are these?" </quote><xpres>said</xpres> the <char species="human" type="main">Queen</char>, pointing to the<char species="nonhuman"> three gardeners</char> lying round the rose tree,
       for, as they were lying on their faces, and the pattern on their backs was the same as the
       rest of the pack, she could not tell whether they were gardeners, or soldiers, or courtiers,
       or three of her own children. </p>
     <p> <quote>"How should <uline>I</uline> know?"</quote> <xpres>sai</xpres>d <char  species="human">Alice</char>, surprised at her own courage, "it's
       no business of <uline>mine</uline>." </p>
-    <p> The <char species="human">Queen </char>turned crimson with fury, and, after glaring at her for a minute, began in a voice
+    <p> The <char species="human" type="main">Queen </char>turned crimson with fury, and, after glaring at her for a minute, began in a voice
       of thunder "off with her—" </p>
-    <p> <quote>"Nonsense!" </quote>said <char  species="human">Alice</char>, very loudly and decidedly, and <char species="human">the Queen</char> was silent. </p>
+    <p> <quote>"Nonsense!" </quote>said <char  species="human">Alice</char>, very loudly and decidedly, and <char species="human" type="main">the Queen</char> was silent. </p>
     <p> <char  species="human">The King</char> laid his hand upon her arm, and <xpres>said</xpres> timidly "remember, my dear! She is only a
       child!"
     </p>
-    <p> <char  species="human">The Queen</char> turned angrily away from him, and <xpres>said </xpres>to the Knave <quote>"turn them over!"</quote> </p>
+    <p> <char species="human" type="main">The Queen</char> turned angrily away from him, and <xpres>said </xpres>to the Knave <quote>"turn them over!"</quote> </p>
     <p> The Knave did so, very carefully, with one foot. </p>
     <p> <quote>"Get up!"</quote> <xpres>said</xpres> <char  species="human">the Queen</char>, in a shrill loud voice, and the <char species="nonhuman">three gardeners</char> instantly jumped
       up, and began bowing to the King, the Queen, the Royal children, and everybody else. </p>
@@ -890,12 +890,12 @@
       tree, she went on "what <uline>have</uline> you been doing here?" </p>
     <p> <quote>"May it please your Majesty,"</quote> <xpres>said </xpres>Two very humbly, going down on one knee as he spoke,<quote> "we
       were trying—"</quote> </p>
-    <p> <quote>"I see!" </quote><xpres>said</xpres> <char species="human">the Queen</char>, who had meantime been examining the roses,<quote> "off with their heads!"</quote>
+    <p> <quote>"I see!" </quote><xpres>said</xpres> <char species="human" type="main">the Queen</char>, who had meantime been examining the roses,<quote> "off with their heads!"</quote>
       and the procession moved on, three of the soldiers remaining behind to execute the three
       unfortunate gardeners, who ran to <char  species="human">Alice</char> for protection. </p>
     <p><quote> "You sha'n't be beheaded!"</quote> <xpres>said</xpres> <char  species="human">Alice</char>, and she put them into her pocket: the <char>three soldiers</char>
       marched once round her, looking for them, and then quietly marched off after the others. </p>
-    <p> <quote>"Are their heads off?"</quote> <xpres>shouted </xpres><char species="human">the Queen</char>. </p>
+    <p> <quote>"Are their heads off?"</quote> <xpres>shouted </xpres><char species="human" type="main">the Queen</char>. </p>
     <p> <quote>"Their heads are gone," </quote><char species="nonhuman">the soldiers </char>shouted in reply,<quote> "if it please your Majesty!"</quote>
     </p>
     <p><quote> "That's right!" </quote>shouted <char  species="human">the Queen</char>, <quote>"can you play croquet?"</quote> </p>
@@ -933,15 +933,15 @@
       went stamping about and shouting "off with his head!" of "off with her head!" about once in a
       minute. All those whom she sentenced were taken into custody by the soldiers, who of course
       had to leave off being arches to do this, so that, by the end of half an hour or so, there
-      were no arches left, and all the players, except <char species="human">the King</char>, <char species="human">the Queen</char>, and <char species="human">Alice</char>, were in
+      were no arches left, and all the players, except <char species="human" type="main">the King</char>, <char species="human" type="main">the Queen</char>, and <char species="human" type="main">Alice</char>, were in
       custody, and under sentence of execution. </p>
-    <p> Then <char species="human">the Queen </char>left off, quite out of breath, and <xpres>said</xpres> to <char species="human">Alice</char> "have you seen the Mock
+    <p> Then <char species="human" type="main">the Queen </char>left off, quite out of breath, and <xpres>said</xpres> to <char species="human" type="main">Alice</char> "have you seen the Mock
       Turtle?" </p>
     <p> <quote>"No,"</quote> <xpres>said</xpres> <char  species="human">Alice,</char> <quote>"I don't even know what a<char species="nonhuman"> Mock Turtle</char> is."</quote> </p>
-    <p><quote> "Come on then," <xpres>said</xpres> <char species="human">the Queen</char>, "and it shall tell you its history."</quote> </p>
-    <p> As they walked off together, <char species="human">Alice</char> heard <char  species="human">the King</char> say in a low voice, to the company
+    <p><quote> "Come on then," <xpres>said</xpres> <char species="human" type="main">the Queen</char>, "and it shall tell you its history."</quote> </p>
+    <p> As they walked off together, <char species="human" type="main">Alice</char> heard <char  species="human">the King</char> say in a low voice, to the company
       generally,<quote> "you are all pardoned." </quote></p>
-    <p><quote> "Come, that's a good thing!" </quote>thought <char species="human">Alice</char>, who had felt quite grieved at the number of executions which<char species="human"> the Queen</char>
+    <p><quote> "Come, that's a good thing!" </quote>thought <char species="human" type="main">Alice</char>, who had felt quite grieved at the number of executions which<char species="human" type="main"> the Queen</char>
       had ordered. </p>
     <image source="au-images/image_078.jpg"/>
     <p> They very soon came upon a Gryphon, which lay fast asleep in the sun: (if you don't know
@@ -951,7 +951,7 @@
       like the look of the creature, but on the whole she thought it quite as safe to stay as to go
       after that savage Queen: so she waited. </p>
     <p> The <char species="nonhuman">Gryphon </char>sat up and rubbed its eyes: then it watched<char  species="human"> the Queen</char> till she was out of sight:
-      then it chuckled. "What fun!" <xpres>said </xpres>the <char species="nonhuman">Gryphon</char>, half to itself, half to <char species="human">Alice.</char> </p>
+      then it chuckled. "What fun!" <xpres>said </xpres>the <char species="nonhuman">Gryphon</char>, half to itself, half to <char species="human" type="main">Alice.</char> </p>
     <p> "What <uline>is</uline> the fun?" <xpres>said</xpres> <char  species="human">Alice</char>. </p>
     <p> "Why, <uline>she</uline>," said the<char species="nonhuman"> Gryphon</char>; "it's all her fancy, that: they never
       executes nobody, you know: come on!"
@@ -969,11 +969,11 @@
     <p> "This here young lady" said the <char species="nonhuman">Gryphon</char>, "wants for to know your history, she do." </p>
     <p> "<quote>I'll tell it,"</quote> said the <char species="nonhuman">Mock Turtle</char>, in a deep hollow tone, "sit down, and don't speak till
       I've finished." </p>
-    <p> So they sat down, and no one spoke for some minutes: <char species="human">Alice</char> thought to herself "I don't see
+    <p> So they sat down, and no one spoke for some minutes: <char species="human" type="main">Alice</char> thought to herself "I don't see
       how it can <uline>ever</uline> finish, if it doesn't begin," but she waited patiently. </p>
     <p><quote> "Once," </quote>said the <char species="nonhuman">Mock Turtle</char> at last, with a deep sigh,<quote> "I was a real Turtle."</quote> </p>
     <p> These words were followed by a very long silence, broken only by an occasional exclamation
-      of "hjckrrh!" from the <char species="nonhuman">Gryphon</char>, and the constant heavy sobbing of the <char species="nonhuman"> Mock Turtle</char>. <char species="human">Alice</char> was
+      of "hjckrrh!" from the <char species="nonhuman">Gryphon</char>, and the constant heavy sobbing of the <char species="nonhuman"> Mock Turtle</char>. <char species="human" type="main">Alice</char> was
       very nearly getting up and saying, "thank you, sir, for your interesting story," but she could
       not help thinking there <uline>must</uline> be more to come, so she sat still and said
       nothing. </p>
@@ -988,8 +988,8 @@
       and then they both sat silent and looked at poor <char  species="human">Alice,</char> who felt ready to sink into the earth:
       at last the <char species="nonhuman">Gryphon</char> <xpres>said</xpres> to the<char> Mock Turtle</char>, <quote>"get on, old fellow! Don't be all day!"</quote> and the
       <char species="nonhuman">Mock Turtle</char> went on in these words: </p>
-    <p><quote> "You may not have lived much under the sea—"</quote> ("I haven't,"<xpres> said</xpres><char species="human"> Alice</char>,) "and perhaps you
-      were never even introduced to a lobster—" (<char species="human">Alice</char> began to say "I once tasted—" but hastily
+    <p><quote> "You may not have lived much under the sea—"</quote> ("I haven't,"<xpres> said</xpres><char species="human" type="main"> Alice</char>,) "and perhaps you
+      were never even introduced to a lobster—" (<char species="human" type="main">Alice</char> began to say "I once tasted—" but hastily
       checked herself, and <xpres>said</xpres> "no, never," instead,) "so you can have no idea what a delightful
       thing a Lobster Quadrille is!" </p>
     <p> "No, indeed," <xpres>said </xpres><char  species="human">Alice</char>, "what sort of a thing is it?" </p>
@@ -1011,7 +1011,7 @@
     <image source="au-images/image_084.jpg"/>
     <p> "That's all," <xpres>said </xpres>the<cha> Mock Turtle</cha>, suddenly dropping its voice, and the two creatures, who
       had been jumping about like mad things all this time, sat down again very sadly and quietly,
-      and looked at <char species="human">Alice</char>. </p>
+      and looked at <char species="human" type="main">Alice</char>. </p>
     <p> <quote>"It must be a very pretty dance,"</quote> said <char  species="human">Alice</char> timidly. </p>
     <p><quote> "Would you like to see a little of it?"</quote> <xpres>said </xpres>the <char species="nonhuman">Mock Turtle.</char> </p>
     <p><quote> "Very much indeed," </quote>said <char  species="human">Alice</char>. </p>
@@ -1039,9 +1039,9 @@
         
       </div>
     </div>
-    <p><quote> <quote>"Thank you,</quote>"</quote> <xpres>said</xpres> <char species="human">Alice</char>, feeling very glad that the figure was over. </p>
+    <p><quote> <quote>"Thank you,</quote>"</quote> <xpres>said</xpres> <char species="human" type="main">Alice</char>, feeling very glad that the figure was over. </p>
     <p> "Shall we try the second figure?" <xpres>said </xpres>the <char species="nonhuman">Gryphon</char>, <quote>"or would you prefer a song?"</quote> </p>
-    <p> <quote>"Oh, a song, please!" </quote><char>Alice</char> replied, so eagerly, that the <char species="nonhuman">Gryphon</char> <xpres>said</xpres>, in a rather offended
+    <p> <quote>"Oh, a song, please!" </quote><char species="human" type="main">Alice</char> replied, so eagerly, that the <char species="nonhuman">Gryphon</char> <xpres>said</xpres>, in a rather offended
       tone, "hm! no accounting for tastes! Sing her 'Mock Turtle Soup', will you, old fellow!" </p>
     <p> The<char species="nonhuman"> Mock Turtle </char>sighed deeply, and began, in a voice sometimes choked with <xpres>sobs</xpres>, to sing
       this: </p>
@@ -1071,7 +1071,7 @@
         <l indent="i0">Beautiful beautiful Soup!"</l>
       </div>
     </div>
-    <p> The <char species="human">King and Queen</char> were seated on their throne when they arrived, with a great crowd
+    <p> The <char species="human" type="main">King and Queen</char> were seated on their throne when they arrived, with a great crowd
       assembled around them: the Knave was in custody: and before<char  species="human"> the King</char>stood the<char species="nonhuman"> white rabbit</char>,
       with a trumpet in one hand, and a scroll of parchment in the other. </p>
     <image source="au-images/image_087.jpg"/>
@@ -1091,8 +1091,8 @@
     </div>
     <p> "Now for the evidence," said <char  species="human">the King</char>, <quote>"and then the sentence." </quote></p>
     <image source="au-images/image_088.jpg"/>
-    <p> "No!" <xpres>said</xpres> <char species="human">the Queen</char>, "first the sentence, and then the evidence!" </p>
-    <p> "Nonsense!" cried <char species="human">Alice</char>, so loudly that everybody jumped, "the idea of having the sentence
+    <p> "No!" <xpres>said</xpres> <char species="human" type="main">the Queen</char>, "first the sentence, and then the evidence!" </p>
+    <p> "Nonsense!" cried <char species="human" type="main">Alice</char>, so loudly that everybody jumped, "the idea of having the sentence
       first!" </p>
     <p> <quote>"Hold your tongue!" </quote><xpres>said </xpres><char  species="human">the Queen</char>. </p>
     <p> <quote>"I won't!"</quote> said <char  species="human">Alice</char>, "you're nothing but a pack of cards! Who cares for you?" </p>
@@ -1101,7 +1101,7 @@
       her head in the lap of her sister, who was gently brushing away some leaves that had fluttered
       down from the trees on to her face.
     </p>
-    <p> "Wake up! <char species="human">Alice</char> dear!" <xpres>said </xpres>her sister,<quote> "what a nice long sleep you've had!"</quote> </p>
+    <p> "Wake up! <char species="human" type="main">Alice</char> dear!" <xpres>said </xpres>her sister,<quote> "what a nice long sleep you've had!"</quote> </p>
     <p> "Oh, I've had such a curious dream!" <xpres>said </xpres><char  species="human">Alice</char>, and she told her sister all her Adventures
       Under Ground, as you have read them, and when she had finished, her sister kissed her and said
       "it <uline>was</uline> a curious dream, dear, certainly! But now run in to your tea:
