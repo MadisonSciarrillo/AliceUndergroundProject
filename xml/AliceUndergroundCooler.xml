@@ -174,7 +174,7 @@
       doesn't go in ringlets at all—and I'm sure I ca'n't be <char species="human" type="side">Florence</char>, for I know all sorts of
       things, and she, oh! she knows such a very little! Besides, she's she, and I'm I, and—oh dear!
       how puzzling it all is! I'll try if I know all the things I used to know. Let me see: four
-      times five is twelve, and four times six is thirteen, and four times seven is fourteen—oh
+      times <char species="human" type="side">Five</char> is twelve, and four times six is thirteen, and four times seven is fourteen—oh
       dear! I shall never get to twenty at this rate! But the Multiplication Table don't
       signify—let's try Geography. London is the capital of France, and Rome is the capital of
       Yorkshire, and Paris—oh dear! dear! <uline>that's</uline> all wrong, I'm certain! I
@@ -182,20 +182,20 @@
       her hands on her lap, and
       began, but her voice sounded hoarse and strange, and the words did not sound the same as they
       used to do: </p>
-      <div class="poem">
-        <div class="stanza">
+      <poem class="poem">
+        <poem class="stanza">
           <l indent="i0">"How doth the little crocodile</l>
           <l indent="i2">Improve its shining tail,</l>
           <l indent="i0">And pour the waters of the Nile</l>
           <l indent="i2">On every golden scale!</l>
-        </div>
-        <div class="stanza">
+        </poem>
+        <poem class="stanza">
           <l indent="i0">"How cheerfully it seems to grin!</l>
           <l indent="i2">How neatly spreads its claws!</l>
           <l indent="i0">And welcomes little fishes in</l>
           <l indent="i2">With gently-smiling jaws!"</l>
-        </div>
-      </div>
+        </poem>
+      </poem>
       <p> "I'm sure those are not the right words," said poor <char species="human" type="main">Alice</char>, and her eyes filled with tears as
         she thought "I must be <char species="human" type="side">Florence</char> after all, and I shall have to go and live in that poky little
         house, and have next to no toys to play with, and oh! ever so many lessons to learn! No! I've
@@ -284,19 +284,19 @@
       for she felt sure she would catch a bad cold if she did not get dry very soon. </p>
     <p> "Ahem!" said <char species="nonhuman" type="side">the mouse</char>, with a self-important air, "are you all ready? This is the driest
       thing I know. Silence all round, if you please! </p>
-    <p> "<char>William the Conqueror</char>, whose cause was favoured by the pope, was soon submitted to by the
+    <p> "<char species="human" type="side">William the Conqueror</char>, whose cause was favoured by the pope, was soon submitted to by the
       English, who wanted leaders, and had been of late much accustomed to usurpation and conquest.
-      <char>Edwin and Morcar</char>, the earls of Mercia and Northumbria—" </p>
+      <char species="human" type="side">Edwin and Morcar</char>, the earls of Mercia and Northumbria—" </p>
     <p> "Ugh!" said the <char species="nonhuman" type="side">Lory</char> with a shiver. </p>
     <p> "I beg your pardon?" said <char species="nonhuman" type="side">the mouse</char>, frowning, but very politely, "did you speak?" </p>
     <p> "Not I!" said the <char species="nonhuman" type="side">Lory</char> hastily. </p>
-    <p> "I thought you did," said <char species="nonhuman" type="side">the mouse</char>, "I proceed. <char>Edwin and Morcar</char>, the earls of Mercia and
-      Northumbria, declared for him; and even <char>Stigand</char>, the patriotic archbishop of Canterbury, found it
-      advisable to go with <char>Edgar Atheling</char> to meet <char>William</char> and offer him the crown. <char>William's</char> conduct
+    <p> "I thought you did," said <char species="nonhuman" type="side">the mouse</char>, "I proceed. <char species="human" type="side">Edwin and Morcar</char>, the earls of Mercia and
+      Northumbria, declared for him; and even <char species="human" type="side">Stigand</char>, the patriotic archbishop of Canterbury, found it
+      advisable to go with <char species="human" type="side">Edgar Atheling</char> to meet <char species="human" type="side">William</char> and offer him the crown. <char species="human" type="side">William's</char> conduct
       was at first moderate—how are you getting on now, dear?" said <char species="nonhuman" type="side">the mouse</char>, turning to <char species="human" type="main">Alice</char> as
       it spoke. </p>
     <p> "As wet as ever," said poor <char species="human" type="main">Alice</char>, "it doesn't seem to dry me at all." </p>
-    <p> "In that case," said the <char>Dodo</char> solemnly, rising to his feet, "I move that the meeting
+    <p> "In that case," said the <char species="nonhuman" type="side">Dodo</char> solemnly, rising to his feet, "I move that the meeting
       adjourn, for the immediate adoption of more energetic remedies—" </p>
     <p> "Speak English!" said <char species="nonhuman" type="side">the duck</char>, "I don't know the meaning of half those long words, and
       what's more, I don't believe you do either!" And <char species="nonhuman" type="side">the duck</char> quacked a comfortable laugh to
@@ -308,9 +308,9 @@
     </p>
     <p> <char species="nonhuman" type="side">the mouse</char> made no objection to this, and the whole party moved along the river bank, (for
       the pool had by this time began to flow out of the hall, and the edge of it was fringed with
-      rushes and forget-me-nots,) in a slow procession, <char species="nonhuman" type="side">the dodo</char> leading the way. After a time <char>the
+      rushes and forget-me-nots,) in a slow procession, <char species="nonhuman" type="side">the dodo</char> leading the way. After a time <char species="nonhuman" type="side">the
       Dodo</char> became impatient, and, leaving <char species="nonhuman" type="side">the duck</char> to bring up the rest of the party, moved on at a
-      quicker pace with <char species="human" type="main">Alice</char>, the <char species="nonhuman" type="side">Lory</char>, and the <char>Eaglet</char>, and soon brought them to a little cottage,
+      quicker pace with <char species="human" type="main">Alice</char>, the <char species="nonhuman" type="side">Lory</char>, and the <char species="nonhuman" type="side">Eaglet</char>, and soon brought them to a little cottage,
       and there they sat snugly by the fire, wrapped up in blankets, until the rest of the party had
       arrived, and they were all dry again. </p>
     <p> Then they all sat down again in a large ring on the bank, and begged <char species="nonhuman" type="side">the mouse</char> to begin his
@@ -670,7 +670,7 @@
       <div class="stanza">
         <l indent="i0">"In my youth," said the sage, as he shook his gray locks,</l>
         <l indent="i2">"I kept all my limbs very supple,</l>
-        <l indent="i0">By the use of this ointment, five shillings the box—</l>
+        <l indent="i0">By the use of this ointment, <char species="human" type="side">Five</char> shillings the box—</l>
         <l indent="i2">Allow me to sell you a couple."</l>
       </div>
     </div>
@@ -831,28 +831,28 @@
   </chapter>
   <chapter>
     <heading> Chapter IV </heading>
-    <p><litdev type= "personification "> A large rose tree stood near the entrance of the garden</litdev>: the roses on it were white, but
-      there were three gardeners at it, busily painting them red. This<char  species="human"> Alice</char> thought a very curious
+    <p>A large rose tree stood near the entrance of the garden: the roses on it were white, but
+      there were three gardeners at it, busily painting them red. This <char  species="human" type="main"> Alice</char> thought a very curious
       thing, and she went near to watch them, and just as she came up she heard one of them say
-      <quote>"look out, Five! Don't go splashing paint over me like that!" </quote></p>
-    <p> <quote>"I couldn't help it,"</quote> said <char species="nonhuman">Five</char> in a sulky tone, <quote>"Seven jogged my elbow."</quote> </p>
-    <p> On which <char species="nonhuman">Seven</char> lifted up his head and <xpres>said </xpres>"that's right, Five! Always lay the blame on
+      "look out, <char species="human" type="side">Five</char>! Don't go splashing paint over me like that!"</p>
+    <p> "I couldn't help it," said <char species="human" type="side">Five</char> in a sulky tone, "Seven jogged my elbow." </p>
+    <p> On which <char species="human" type="side">Seven</char> lifted up his head and <char species="nonhuman" type="side"> Mock Turtle</char>said "that's right, <char species="human" type="side">Five</char>! Always lay the blame on
       others!" </p>
-    <p> "<uline>You'd</uline> better not talk!" said Five, <quote>"I heard the Queen say only yesterday she thought
-      of having you beheaded!" </quote></p>
-    <p><quote> "What for?" </quote>said the one who had spoken first. </p>
-    <p> "That's not your business, Two!" said <char species="nonhuman">Seven.</char> </p>
-    <p><quote> "Yes, it <uline>is</uline> his business!"</quote> said <char species="nonhuman">Five</char>,<quote> "and I'll tell him: it was for
-      bringing in tulip-roots to the cook instead of potatoes." </quote></p>
-    <p> <char species="nonhuman">Seven </char>flung down his brush, and had just begun <quote>"well! Of all the unjust things—"</quote> when his
+    <p> "<uline>You'd</uline> better not talk!" said <char species="human" type="side">Five</char>, "I heard the Queen say only yesterday she thought
+      of having you beheaded!" </p>
+    <p> "What for?" said the one who had spoken first. </p>
+    <p> "That's not your business, Two!" said <char species="human" type="side">Seven.</char> </p>
+    <p> "Yes, it <uline>is</uline> his business!" said <char species="human" type="side">Five</char>, "and I'll tell him: it was for
+      bringing in tulip-roots to the cook instead of potatoes." </p>
+    <p> <char species="nonhuman" type="side">Seven </char>flung down his brush, and had just begun "well! Of all the unjust things—" when his
       eye fell upon <char species="human" type="main">Alice</char>, and he stopped suddenly; the others looked round, and all of them took
       off their hats and bowed low. </p>
-    <p> <quote>"Would you tell me, please,"</quote> <xpres>said </xpres><char  species="human">Alice</char> timidly, <quote>"why you are painting those roses?" </quote></p>
-    <p> Five and Seven looked at Two, but said nothing: Two began, in a low voice, <quote>"why, Miss, the
+    <p> "Would you tell me, please," <char species="nonhuman" type="side"> Mock Turtle</char>said <char  species="human" type="main"> Alice</char> timidly, "why you are painting those roses?" </p>
+    <p> <char species="human" type="side">Five</char> and Seven looked at Two, but said nothing: Two began, in a low voice, "why, Miss, the
       fact is, this ought to have been a red rose tree, and we put a white one in by mistake, and if
       the Queen was to find it out, we should all have our heads cut off. So, you see, we're doing
-      our best, before she comes, to—" At this moment Five, who had been looking anxiously across
-      the garden called out <quote>"the Queen! the Queen!"</quote> </quote>and the three gardeners instantly threw themselves flat upon
+      our best, before she comes, to—" At this moment <char species="human" type="side">Five</char>, who had been looking anxiously across
+      the garden called out "the Queen! the Queen!" and the three gardeners instantly threw themselves flat upon
       their faces. There was a sound of many footsteps, and Alice looked round, eager to see <char species="human" type="main">the
         Queen</char>. </p>
     <p> First came ten soldiers carrying clubs; these were all shaped like the three gardeners, flat
@@ -860,64 +860,64 @@
       ornamented with diamonds, and walked two and two, as the soldiers did. After these came the
       Royal children: there were ten of them, and the little dears came jumping merrily along, hand
       in hand, in couples: they were all ornamented with hearts. Next came the guests, mostly kings
-      and queens, among whom <char  species="human">Alice</char> recognised the <char species="nonhuman">white rabbit</char>: it was talking in a hurried nervous
+      and queens, among whom <char  species="human" type="main"> Alice</char> recognised the <char species="nonhuman" type="side">white rabbit</char>: it was talking in a hurried nervous
       manner, smiling at everything that was said, and went by without noticing her. Then followed
       the Knave of Hearts, carrying the King's crown on a cushion, and, last of all this grand
       procession, came <b>THE KING AND QUEEN OF HEARTS</b>. </p>
     <image source="au-images/image_071.jpg"/>
-    <p> When the procession came opposite to <char  species="human">Alice</char>, they all stopped and looked at her, and <char species="human" type="main">the Queen</char> <xpres>said </xpres>severely<quote> "who
-      is this?" </quote>She <xpres>said</xpres> it to the Knave of Hearts, who only bowed and smiled in reply. </p>
-    <p><quote> "Idiot!"</quote> <xpres>said </xpres><char species="human" type="main" >the Queen</char>, turning up her nose, and asked Alice "what's your name?" </p>
-    <p> <quote>"My name is <char species="human" type="main">Alice</char>, so please your Majesty,"</quote> <xpres>said </xpres><char  species="human">Alice</char> boldly, for she thought to herself
-      <quote> "why, they're only a pack of cards! I needn't be afraid of them!"</quote> </p>
-    <p> <quote>"Who are these?" </quote><xpres>said</xpres> the <char species="human" type="main">Queen</char>, pointing to the<char species="nonhuman"> three gardeners</char> lying round the rose tree,
+    <p> When the procession came opposite to <char  species="human" type="main"> Alice</char>, they all stopped and looked at her, and <char species="human" type="main">the Queen</char> <char species="nonhuman" type="side"> Mock Turtle</char>said severely "who
+      is this?" She <char species="nonhuman" type="side"> Mock Turtle</char>said it to the Knave of Hearts, who only bowed and smiled in reply. </p>
+    <p> "Idiot!" <char species="nonhuman" type="side"> Mock Turtle</char>said <char species="human" type="main" >the Queen</char>, turning up her nose, and asked Alice "what's your name?" </p>
+    <p> "My name is <char species="human" type="main">Alice</char>, so please your Majesty," <char species="nonhuman" type="side"> Mock Turtle</char>said <char  species="human" type="main"> Alice</char> boldly, for she thought to herself
+       "why, they're only a pack of cards! I needn't be afraid of them!" </p>
+    <p> "Who are these?" <char species="nonhuman" type="side"> Mock Turtle</char>said the <char species="human" type="main">Queen</char>, pointing to the<char species="nonhuman" type="side"> three gardeners</char> lying round the rose tree,
       for, as they were lying on their faces, and the pattern on their backs was the same as the
       rest of the pack, she could not tell whether they were gardeners, or soldiers, or courtiers,
       or three of her own children. </p>
-    <p> <quote>"How should <uline>I</uline> know?"</quote> <xpres>sai</xpres>d <char  species="human">Alice</char>, surprised at her own courage, "it's
+    <p> "How should <uline>I</uline> know?" <char species="nonhuman" type="side"> Mock Turtle</char>said <char  species="human" type="main"> Alice</char>, surprised at her own courage, "it's
       no business of <uline>mine</uline>." </p>
     <p> The <char species="human" type="main">Queen </char>turned crimson with fury, and, after glaring at her for a minute, began in a voice
       of thunder "off with her—" </p>
-    <p> <quote>"Nonsense!" </quote>said <char  species="human">Alice</char>, very loudly and decidedly, and <char species="human" type="main">the Queen</char> was silent. </p>
-    <p> <char  species="human">The King</char> laid his hand upon her arm, and <xpres>said</xpres> timidly "remember, my dear! She is only a
+    <p> "Nonsense!" said <char  species="human" type="main"> Alice</char>, very loudly and decidedly, and <char species="human" type="main">the Queen</char> was silent. </p>
+    <p> <char  species="human" type="side">the King</char> laid his hand upon her arm, and <char species="nonhuman" type="side"> Mock Turtle</char>said timidly "remember, my dear! She is only a
       child!"
     </p>
-    <p> <char species="human" type="main">The Queen</char> turned angrily away from him, and <xpres>said </xpres>to the Knave <quote>"turn them over!"</quote> </p>
+    <p> <char species="human" type="main">The Queen</char> turned angrily away from him, and <char species="nonhuman" type="side"> Mock Turtle</char>said to the Knave "turn them over!" </p>
     <p> The Knave did so, very carefully, with one foot. </p>
-    <p> <quote>"Get up!"</quote> <xpres>said</xpres> <char  species="human">the Queen</char>, in a shrill loud voice, and the <char species="nonhuman">three gardeners</char> instantly jumped
+    <p> "Get up!" <char species="nonhuman" type="side"> Mock Turtle</char>said <char  species="human" type="main">the Queen</char>, in a shrill loud voice, and the <char species="nonhuman" type="side">three gardeners</char> instantly jumped
       up, and began bowing to the King, the Queen, the Royal children, and everybody else. </p>
-    <p> <quote>"Leave off that!" </quote><xpres>screamed</xpres> <char  species="human">the Queen</char>, "you make me giddy." And then, turning to the rose
+    <p> "Leave off that!" <char species="nonhuman" type="side"> Mock Turtle</char>screamed <char  species="human" type="main">the Queen</char>, "you make me giddy." And then, turning to the rose
       tree, she went on "what <uline>have</uline> you been doing here?" </p>
-    <p> <quote>"May it please your Majesty,"</quote> <xpres>said </xpres>Two very humbly, going down on one knee as he spoke,<quote> "we
-      were trying—"</quote> </p>
-    <p> <quote>"I see!" </quote><xpres>said</xpres> <char species="human" type="main">the Queen</char>, who had meantime been examining the roses,<quote> "off with their heads!"</quote>
+    <p> "May it please your Majesty," <char species="nonhuman" type="side"> Mock Turtle</char>said Two very humbly, going down on one knee as he spoke, "we
+      were trying—" </p>
+    <p> "I see!" <char species="nonhuman" type="side"> Mock Turtle</char>said <char species="human" type="main">the Queen</char>, who had meantime been examining the roses, "off with their heads!"
       and the procession moved on, three of the soldiers remaining behind to execute the three
-      unfortunate gardeners, who ran to <char  species="human">Alice</char> for protection. </p>
-    <p><quote> "You sha'n't be beheaded!"</quote> <xpres>said</xpres> <char  species="human">Alice</char>, and she put them into her pocket: the <char>three soldiers</char>
+      unfortunate gardeners, who ran to <char  species="human" type="main"> Alice</char> for protection. </p>
+    <p> "You sha'n't be beheaded!" <char species="nonhuman" type="side"> Mock Turtle</char>said <char  species="human" type="main"> Alice</char>, and she put them into her pocket: the <char species="human" type="side">three soldiers</char>
       marched once round her, looking for them, and then quietly marched off after the others. </p>
-    <p> <quote>"Are their heads off?"</quote> <xpres>shouted </xpres><char species="human" type="main">the Queen</char>. </p>
-    <p> <quote>"Their heads are gone," </quote><char species="nonhuman">the soldiers </char>shouted in reply,<quote> "if it please your Majesty!"</quote>
+    <p> "Are their heads off?" <char species="nonhuman" type="side"> Mock Turtle</char>shouted <char species="human" type="main">the Queen</char>. </p>
+    <p> "Their heads are gone," <char species="nonhuman" type="side">the soldiers </char>shouted in reply, "if it please your Majesty!"
     </p>
-    <p><quote> "That's right!" </quote>shouted <char  species="human">the Queen</char>, <quote>"can you play croquet?"</quote> </p>
-    <p> <char species="nonhuman">The soldiers</char> were silent, and looked at <char  species="human">Alice</char>, as the question was evidently meant for her. </p>
-    <p><quote> "Yes!"</quote> <xpres>shouted </xpres><char  species="human">Alice</char> at the top of her voice. </p>
-    <p> <quote>"Come on then!" </quote><xpres>roared</xpres> <char  species="human">the Queen</char>, and<char  species="human"> Alice </char>joined the procession, wondering very much what
+    <p> "That's right!" shouted <char  species="human" type="main">the Queen</char>, "can you play croquet?" </p>
+    <p> <char species="nonhuman" type="side">The soldiers </char> were silent, and looked at <char  species="human" type="main"> Alice</char>, as the question was evidently meant for her. </p>
+    <p> "Yes!" <char species="nonhuman" type="side"> Mock Turtle</char>shouted <char  species="human" type="main"> Alice</char> at the top of her voice. </p>
+    <p> "Come on then!" <char species="nonhuman" type="side"> Mock Turtle</char>roared <char  species="human" type="main">the Queen</char>, and<char species="human" type="main"> Alice </char>joined the procession, wondering very much what
       would happen next. </p>
-    <p><quote> "It's—it's a very fine day!"</quote> <xpres>said </xpres>a timid little voice: she was walking by the white rabbit,
+    <p> "It's—it's a very fine day!" <char species="nonhuman" type="side"> Mock Turtle</char>said a timid little voice: she was walking by the white rabbit,
       who was peeping anxiously into her face. </p>
-    <p> <quote>"Very," </quote><xpres>said </xpres><char  species="human">Alice</char>, "where's the Marchioness?" </p>
-    <p><quote> "Hush, hush!"</quote> <xpres>said </xpres><char species="nonhuman">the rabbit</char> in a low voice, <quote>"she'll hear you. The Queen's the Marchioness:
-      didn't you know that?"</quote> </p>
-    <p><quote> "No, I didn't," </quote><xpres>said</xpres> <char  species="human">Alice</char>, <quote>"what of?"</quote> </p>
-    <p> "Queen of Hearts," <xpres>said</xpres> <char species="nonhuman">the rabbit</char> in a whisper, putting its mouth close to her ear<quote>, "and
-      Marchioness of <char species="nonhuman">Mock Turtles</char>."</quote> </p>
-    <p> "What are <uline>they</uline>?" <xpres>said</xpres><char  species="human"> Alice</char>, but there was no time for the answer,
+    <p> "Very," <char species="nonhuman" type="side"> Mock Turtle</char>said <char  species="human" type="main"> Alice</char>, "where's the Marchioness?" </p>
+    <p> "Hush, hush!" <char species="nonhuman" type="side"> Mock Turtle</char>said <char species="nonhuman" type="side">the rabbit</char> in a low voice, "she'll hear you. The Queen's the Marchioness:
+      didn't you know that?" </p>
+    <p> "No, I didn't," <char species="nonhuman" type="side"> Mock Turtle</char>said <char  species="human" type="main"> Alice</char>, "what of?" </p>
+    <p> "Queen of Hearts," <char species="nonhuman" type="side"> Mock Turtle</char>said <char species="nonhuman" type="side">the rabbit</char> in a whisper, putting its mouth close to her ear, "and
+      Marchioness of <char species="nonhuman" type="side">Mock Turtles</char>." </p>
+    <p> "What are <uline>they</uline>?" <char species="nonhuman" type="side"> Mock Turtle</char>said<char  species="human" type="main"> Alice</char>, but there was no time for the answer,
       for they had reached the croquet-ground, and the game began instantly. </p>
-    <p> <char  species="human">Alice </char>thought she had never seen such a curious croquet-ground in all her life: it was all
+    <p> <char  species="human" type="main">Alice</char>thought she had never seen such a curious croquet-ground in all her life: it was all
       in ridges and furrows: the croquet-balls were live hedgehogs, the mallets live ostriches, and
       the soldiers had to double themselves up, and stand on their feet and hands, to make the arches. </p>
     <image source="au-images/image_075.jpg"/>
-    <p> The chief difficulty which <char  species="human">Alice</char> found at first was to manage her ostrich: she got its body
+    <p> The chief difficulty which <char  species="human" type="main"> Alice</char> found at first was to manage her ostrich: she got its body
       tucked away, comfortably enough, under her arm, with its legs hanging down, but generally,
       just as she had got its neck straightened out nicely, and was going to give a blow with its
       head, it <uline>would</uline> twist itself round, and look up into her face, with such
@@ -925,101 +925,101 @@
       head down, and was going to begin again, it was very confusing to find that the hedgehog had
       unrolled itself, and was in the act of crawling away: besides all this, there was generally a
       ridge or a furrow in her way, wherever she wanted to send the hedgehog to, and as the
-      doubled-up soldiers were always getting up and walking off to other parts of the ground, <char  species="human">Alice</char> soon came to the
+      doubled-up soldiers were always getting up and walking off to other parts of the ground, <char  species="human" type="main"> Alice</char> soon came to the
       conclusion that it was a very difficult game indeed. </p>
     <image source="au-images/image_076.jpg"/>
     <p> The players all played at once without waiting for turns, and quarrelled all the while at
-      the tops of their voices, and in a very few minutes <char  species="human">the Queen</char> was in a furious passion, and
+      the tops of their voices, and in a very few minutes <char  species="human" type="main">the Queen</char> was in a furious passion, and
       went stamping about and shouting "off with his head!" of "off with her head!" about once in a
       minute. All those whom she sentenced were taken into custody by the soldiers, who of course
       had to leave off being arches to do this, so that, by the end of half an hour or so, there
       were no arches left, and all the players, except <char species="human" type="main">the King</char>, <char species="human" type="main">the Queen</char>, and <char species="human" type="main">Alice</char>, were in
       custody, and under sentence of execution. </p>
-    <p> Then <char species="human" type="main">the Queen </char>left off, quite out of breath, and <xpres>said</xpres> to <char species="human" type="main">Alice</char> "have you seen the Mock
+    <p> Then <char species="human" type="main">the Queen </char>left off, quite out of breath, and <char species="nonhuman" type="side"> Mock Turtle</char>said to <char species="human" type="main">Alice</char> "have you seen the Mock
       Turtle?" </p>
-    <p> <quote>"No,"</quote> <xpres>said</xpres> <char  species="human">Alice,</char> <quote>"I don't even know what a<char species="nonhuman"> Mock Turtle</char> is."</quote> </p>
-    <p><quote> "Come on then," <xpres>said</xpres> <char species="human" type="main">the Queen</char>, "and it shall tell you its history."</quote> </p>
-    <p> As they walked off together, <char species="human" type="main">Alice</char> heard <char  species="human">the King</char> say in a low voice, to the company
-      generally,<quote> "you are all pardoned." </quote></p>
-    <p><quote> "Come, that's a good thing!" </quote>thought <char species="human" type="main">Alice</char>, who had felt quite grieved at the number of executions which<char species="human" type="main"> the Queen</char>
+    <p> "No," <char species="nonhuman" type="side"> Mock Turtle</char>said <char  species="human" type="main">Alice,</char> "I don't even know what a<char species="nonhuman" type="side"> Mock Turtle</char> is." </p>
+    <p> "Come on then," <char species="nonhuman" type="side"> Mock Turtle</char>said <char species="human" type="main">the Queen</char>, "and it shall tell you its history." </p>
+    <p> As they walked off together, <char species="human" type="main">Alice</char> heard <char  species="human" type="side">the King</char> say in a low voice, to the company
+      generally, "you are all pardoned." </p>
+    <p> "Come, that's a good thing!" thought <char species="human" type="main">Alice</char>, who had felt quite grieved at the number of executions which<char species="human" type="main"> the Queen</char>
       had ordered. </p>
     <image source="au-images/image_078.jpg"/>
     <p> They very soon came upon a Gryphon, which lay fast asleep in the sun: (if you don't know
-      what a Gryphon is, look at the picture):<quote> "Up, lazy thing!" </quote>said <char  species="human">the Queen</char>, "and take this
+      what a Gryphon is, look at the picture): "Up, lazy thing!" said <char  species="human" type="main">the Queen</char>, "and take this
       young lady to see the Mock Turtle, and to hear its history. I must go back and see after some
-      executions I ordered," and she walked off, leaving<char  species="human"> Alice</char> with the <char species="nonhuman">Gryphon.</char> <char  species="human">Alice</char> did not quite
+      executions I ordered," and she walked off, leaving<char  species="human" type="main"> Alice</char> with the <char species="nonhuman" type="side">Gryphon.</char> <char  species="human" type="main"> Alice</char> did not quite
       like the look of the creature, but on the whole she thought it quite as safe to stay as to go
       after that savage Queen: so she waited. </p>
-    <p> The <char species="nonhuman">Gryphon </char>sat up and rubbed its eyes: then it watched<char  species="human"> the Queen</char> till she was out of sight:
-      then it chuckled. "What fun!" <xpres>said </xpres>the <char species="nonhuman">Gryphon</char>, half to itself, half to <char species="human" type="main">Alice.</char> </p>
-    <p> "What <uline>is</uline> the fun?" <xpres>said</xpres> <char  species="human">Alice</char>. </p>
-    <p> "Why, <uline>she</uline>," said the<char species="nonhuman"> Gryphon</char>; "it's all her fancy, that: they never
+    <p> The <char species="nonhuman" type="side">Gryphon </char>sat up and rubbed its eyes: then it watched<char  species="human" type="main"> the Queen</char> till she was out of sight:
+      then it chuckled. "What fun!" <char species="nonhuman" type="side"> Mock Turtle</char>said the <char species="nonhuman" type="side">Gryphon</char>, half to itself, half to <char species="human" type="main">Alice.</char> </p>
+    <p> "What <uline>is</uline> the fun?" <char species="nonhuman" type="side"> Mock Turtle</char>said <char  species="human" type="main"> Alice</char>. </p>
+    <p> "Why, <uline>she</uline>," said the<char species="nonhuman" type="side"> Gryphon</char>; "it's all her fancy, that: they never
       executes nobody, you know: come on!"
     </p>
-    <p> <quote>"Everybody says 'come on!' here,"</quote> thought <char  species="human">Alice </char>as she walked slowly after the <char species="nonhuman">Gryphon</char>; "I
+    <p> "Everybody says 'come on!' here," thought <char  species="human" type="main">Alice</char>as she walked slowly after the <char species="nonhuman" type="side">Gryphon</char>; "I
       never was ordered about so before in all my life—never!" </p>
-    <p> They had not gone far before they saw the <char species="nonhuman">Mock Turtle</char> in the distance, sitting sad and
-      lonely on a little ledge of rock, and, as they came nearer, <char  species="human">Alice</char> could here it sighing as if
+    <p> They had not gone far before they saw the <char species="nonhuman" type="side">Gryphon</char> in the distance, sitting sad and
+      lonely on a little ledge of rock, and, as they came nearer, <char  species="human" type="main"> Alice</char> could here it sighing as if
       its heart would break. She pitied it deeply: "what is its sorrow?" she asked the Gryphon, and
-      the <char species="nonhuman">Gryphon </char>answered, very nearly in the same words as before, "it's all its fancy, that: it
+      the <char species="nonhuman" type="side">Gryphon </char>answered, very nearly in the same words as before, "it's all its fancy, that: it
       hasn't got no sorrow, you know: come on!" </p>
     <image source="au-images/image_079.jpg"/>
-    <p> So they went up to the<char species="nonhuman"> Mock Turtle</char>, who looked at them with large eyes full of tears, but
+    <p> So they went up to the<char species="nonhuman" type="side"> Mock Turtle</char>, who looked at them with large eyes full of tears, but
       said nothing. </p>
-    <p> "This here young lady" said the <char species="nonhuman">Gryphon</char>, "wants for to know your history, she do." </p>
-    <p> "<quote>I'll tell it,"</quote> said the <char species="nonhuman">Mock Turtle</char>, in a deep hollow tone, "sit down, and don't speak till
+    <p> "This here young lady" said the <char species="nonhuman" type="side">Gryphon</char>, "wants for to know your history, she do." </p>
+    <p> "I'll tell it," said the <char species="nonhuman" type="side">Gryphon</char>, in a deep hollow tone, "sit down, and don't speak till
       I've finished." </p>
     <p> So they sat down, and no one spoke for some minutes: <char species="human" type="main">Alice</char> thought to herself "I don't see
       how it can <uline>ever</uline> finish, if it doesn't begin," but she waited patiently. </p>
-    <p><quote> "Once," </quote>said the <char species="nonhuman">Mock Turtle</char> at last, with a deep sigh,<quote> "I was a real Turtle."</quote> </p>
+    <p> "Once," said the <char species="nonhuman" type="side">Gryphon</char> at last, with a deep sigh, "I was a real Turtle." </p>
     <p> These words were followed by a very long silence, broken only by an occasional exclamation
-      of "hjckrrh!" from the <char species="nonhuman">Gryphon</char>, and the constant heavy sobbing of the <char species="nonhuman"> Mock Turtle</char>. <char species="human" type="main">Alice</char> was
+      of "hjckrrh!" from the <char species="nonhuman" type="side">Gryphon</char>, and the constant heavy sobbing of the <char species="nonhuman" type="side"> Mock Turtle</char>. <char species="human" type="main">Alice</char> was
       very nearly getting up and saying, "thank you, sir, for your interesting story," but she could
       not help thinking there <uline>must</uline> be more to come, so she sat still and said
       nothing. </p>
-    <p><quote> "When we were little,"</quote> the <char species="nonhuman">Mock Turtle</char> went on, more calmly, though still sobbing a little
+    <p> "When we were little," the <char species="nonhuman" type="side">Gryphon</char> went on, more calmly, though still sobbing a little
       now and then, "we went to school in the sea. The master was an old Turtle—we used to call him
       Tortoise—" </p>
-    <p> "Why did you call him Tortoise, if he wasn't one?" asked<char  species="human"> Alice.</char>
+    <p> "Why did you call him Tortoise, if he wasn't one?" asked<char  species="human" type="main"> Alice.</char>
     </p>
-    <p> <quote>"We called him Tortoise because he taught us," </quote><xpres>said</xpres> the <char species="nonhuman">Mock Turtle</char> angrily, "really you are
+    <p> "We called him Tortoise because he taught us," <char species="nonhuman" type="side"> Mock Turtle</char>said the <char species="nonhuman" type="side">Gryphon</char> angrily, "really you are
       very dull!" </p>
-    <p> <quote>"You ought to be ashamed of yourself for asking such a simple question," </quote>added the <char species="nonhuman">Gryphon</char>,
-      and then they both sat silent and looked at poor <char  species="human">Alice,</char> who felt ready to sink into the earth:
-      at last the <char species="nonhuman">Gryphon</char> <xpres>said</xpres> to the<char> Mock Turtle</char>, <quote>"get on, old fellow! Don't be all day!"</quote> and the
-      <char species="nonhuman">Mock Turtle</char> went on in these words: </p>
-    <p><quote> "You may not have lived much under the sea—"</quote> ("I haven't,"<xpres> said</xpres><char species="human" type="main"> Alice</char>,) "and perhaps you
+    <p> "You ought to be ashamed of yourself for asking such a simple question," added the <char species="nonhuman" type="side">Gryphon</char>,
+      and then they both sat silent and looked at poor <char  species="human" type="main">Alice,</char> who felt ready to sink into the earth:
+      at last the <char species="nonhuman" type="side">Gryphon</char> <char species="nonhuman" type="side"> Mock Turtle</char>said to the<char species="nonhuman" type="side"> Mock Turtle.</char>, "get on, old fellow! Don't be all day!" and the
+      <char species="nonhuman" type="side">Gryphon</char> went on in these words: </p>
+    <p> "You may not have lived much under the sea—" ("I haven't,"<char species="nonhuman" type="side"> Mock Turtle</char> said<char species="human" type="main"> Alice</char>,) "and perhaps you
       were never even introduced to a lobster—" (<char species="human" type="main">Alice</char> began to say "I once tasted—" but hastily
-      checked herself, and <xpres>said</xpres> "no, never," instead,) "so you can have no idea what a delightful
+      checked herself, and <char species="nonhuman" type="side"> Mock Turtle</char>said "no, never," instead,) "so you can have no idea what a delightful
       thing a Lobster Quadrille is!" </p>
-    <p> "No, indeed," <xpres>said </xpres><char  species="human">Alice</char>, "what sort of a thing is it?" </p>
-    <p> "Why," <xpres>said</xpres> the <char>Gryphon</char>, "you form into a line along the sea shore—" </p>
-    <p> "Two lines!" cried the<char species="nonhuman"> Mock Turtle,</char> "seals, turtles, salmon, and so on—advance twice—" </p>
-    <p> "Each with a lobster as partner!" cried the <char species="nonhuman">Gryphon</char>. </p>
+    <p> "No, indeed," <char species="nonhuman" type="side"> Mock Turtle</char>said <char  species="human" type="main"> Alice</char>, "what sort of a thing is it?" </p>
+    <p> "Why," <char species="nonhuman" type="side"> Mock Turtle</char>said the <char species="nonhuman" type="side">Gryphon</char>, "you form into a line along the sea shore—" </p>
+    <p> "Two lines!" cried the<char species="nonhuman" type="side"> Mock Turtle,</char> "seals, turtles, salmon, and so on—advance twice—" </p>
+    <p> "Each with a lobster as partner!" cried the <char species="nonhuman" type="side">Gryphon</char>. </p>
     <image source="au-images/image_082.jpg"/>
     <p>
       
     </p>
-    <p> <quote>"Of course,"</quote> the <char species="nonhuman">Mock Turtle</char> <xpres>said</xpres>, <quote>"advance twice, set to partners—"</quote> </p>
-    <p> <quote>"Change lobsters, and retire in same order—" </quote>interrupted the<char species="nonhuman"> Gryphon</char>. </p>
-    <p> <quote>"Then, you know," continued the Mock Turtle, "you throw the—" </quote></p>
+    <p> "Of course," the <char species="nonhuman" type="side">Gryphon</char> <char species="nonhuman" type="side"> Mock Turtle</char>said, "advance twice, set to partners—" </p>
+    <p> "Change lobsters, and retire in same order—" interrupted the<char species="nonhuman" type="side"> Gryphon</char>. </p>
+    <p> "Then, you know," continued the Mock Turtle, "you throw the—" </p>
     <p> "The lobsters!" shouted the Gryphon, with a bound into the air. </p>
-    <p><quote> "As far out to sea as you can—"</quote> </p>
-    <p> <quote>"Swim after them!"</quote> screamed the <char species="nonhuman">Gryphon</char>. </p>
-    <p> <quote>"Turn a somersault in the sea!" </quote>cried the <char species="nonhuman">Mock Turtle</char>, capering wildly about. </p>
-    <p> <quote>"Change lobsters again!" </quote>yelled the Gryphon at the top of its voice, "and then—" </p>
+    <p> "As far out to sea as you can—" </p>
+    <p> "Swim after them!" screamed the <char species="nonhuman" type="side">Gryphon</char>. </p>
+    <p> "Turn a somersault in the sea!" cried the <char species="nonhuman" type="side">Gryphon</char>, capering wildly about. </p>
+    <p> "Change lobsters again!" yelled the Gryphon at the top of its voice, "and then—" </p>
     <image source="au-images/image_084.jpg"/>
-    <p> "That's all," <xpres>said </xpres>the<cha> Mock Turtle</cha>, suddenly dropping its voice, and the two creatures, who
+    <p> "That's all," <char species="nonhuman" type="side"> Mock Turtle</char>said the<char species="nonhuman" type="side"> Mock Turtle.</char>, suddenly dropping its voice, and the two creatures, who
       had been jumping about like mad things all this time, sat down again very sadly and quietly,
       and looked at <char species="human" type="main">Alice</char>. </p>
-    <p> <quote>"It must be a very pretty dance,"</quote> said <char  species="human">Alice</char> timidly. </p>
-    <p><quote> "Would you like to see a little of it?"</quote> <xpres>said </xpres>the <char species="nonhuman">Mock Turtle.</char> </p>
-    <p><quote> "Very much indeed," </quote>said <char  species="human">Alice</char>. </p>
-    <p> <quote>"Come, let's try the first figure!"</quote> said the<char species="nonhuman"> Mock Turtle</char> to the<char species="nonhuman"> Gryphon</char>, "we can do it without lobsters, you
+    <p> "It must be a very pretty dance," said <char  species="human" type="main"> Alice</char> timidly. </p>
+    <p> "Would you like to see a little of it?" <char species="nonhuman" type="side"> Mock Turtle</char>said the <char species="nonhuman" type="side"> Mock Turtle.</char> </p>
+    <p> "Very much indeed," said <char  species="human" type="main"> Alice</char>. </p>
+    <p> "Come, let's try the first figure!" said the<char species="nonhuman" type="side"> Mock Turtle</char> to the<char species="nonhuman" type="side"> Gryphon</char>, "we can do it without lobsters, you
       know. Which shall sing?" </p>
-    <p><quote> "Oh! <uline>you</uline> sing!"<xpres> said</xpres> the <char species="nonhuman">Gryphon</char>, "I've forgotten the words."</quote> </p>
-    <p> So they began solemnly dancing round and round <char  species="human">Alice</char>, every now and then treading on her
-      toes when they came too close, and waving their fore-paws to mark the time, while the <char species="nonhuman">Mock
+    <p> "Oh! <uline>you</uline> sing!"<char species="nonhuman" type="side"> Mock Turtle</char> said the <char species="nonhuman" type="side">Gryphon</char>, "I've forgotten the words." </p>
+    <p> So they began solemnly dancing round and round <char  species="human" type="main"> Alice</char>, every now and then treading on her
+      toes when they came too close, and waving their fore-paws to mark the time, while the <char species="nonhuman" type="side">Mock
         Turtle </char>sang, slowly and sadly, these words: </p>
     <div class="poem">
       <div class="stanza">
@@ -1029,7 +1029,7 @@
         <l indent="i2">My own, my gentle Salmon!"</l>
       </div>
     </div>
-    <p> The <char species="nonhuman">Gryphon</char> joined in singing the chorus, which was: </p>
+    <p> The <char species="nonhuman" type="side">Gryphon</char> joined in singing the chorus, which was: </p>
     <div class="poem">
       <div class="stanza">
         <l indent="i0">"Salmon come up! Salmon go down!</l>
@@ -1039,11 +1039,11 @@
         
       </div>
     </div>
-    <p><quote> <quote>"Thank you,</quote>"</quote> <xpres>said</xpres> <char species="human" type="main">Alice</char>, feeling very glad that the figure was over. </p>
-    <p> "Shall we try the second figure?" <xpres>said </xpres>the <char species="nonhuman">Gryphon</char>, <quote>"or would you prefer a song?"</quote> </p>
-    <p> <quote>"Oh, a song, please!" </quote><char species="human" type="main">Alice</char> replied, so eagerly, that the <char species="nonhuman">Gryphon</char> <xpres>said</xpres>, in a rather offended
+    <p> "Thank you," <char species="nonhuman" type="side"> Mock Turtle</char>said <char species="human" type="main">Alice</char>, feeling very glad that the figure was over. </p>
+    <p> "Shall we try the second figure?" <char species="nonhuman" type="side"> Mock Turtle</char>said the <char species="nonhuman" type="side">Gryphon</char>, "or would you prefer a song?" </p>
+    <p> "Oh, a song, please!" <char species="human" type="main">Alice</char> replied, so eagerly, that the <char species="nonhuman" type="side">Gryphon</char> <char species="nonhuman" type="side"> Mock Turtle</char>said, in a rather offended
       tone, "hm! no accounting for tastes! Sing her 'Mock Turtle Soup', will you, old fellow!" </p>
-    <p> The<char species="nonhuman"> Mock Turtle </char>sighed deeply, and began, in a voice sometimes choked with <xpres>sobs</xpres>, to sing
+    <p> The<char species="nonhuman" type="side"> Mock Turtle</char>sighed deeply, and began, in a voice sometimes choked with <char species="nonhuman" type="side"> Mock Turtle</char>sobs, to sing
       this: </p>
     <div class="poem">
       <div class="stanza">
@@ -1058,11 +1058,11 @@
         <l indent="i4">Beautiful beautiful Soup!</l>
       </div>
     </div>
-    <p> <quote>"Chorus again!"</quote> cried the <char species="nonhuman">Gryphon</char>, and the <char species="nonhuman">Mock Turtle</char> had just begun to repeat it, when a cry of "the trial's
+    <p> "Chorus again!" cried the <char species="nonhuman" type="side">Gryphon</char>, and the <char species="nonhuman" type="side">Gryphon</char> had just begun to repeat it, when a cry of "the trial's
       beginning!" was heard in the distance. </p>
-    <p> "Come on!" cried the <char>Gryphon</char>, and, taking <char  species="human">Alice</char> by the hand, he hurried off, without waiting
+    <p> "Come on!" cried the <char species="nonhuman" type="side">Gryphon</char>, and, taking <char  species="human" type="main"> Alice</char> by the hand, he hurried off, without waiting
       for the end of the song. </p>
-    <p> "What trial is it?" panted <char  species="human">Alice</char> as she ran, but the<char species="nonhuman"> Gryphon </char>only answered "come on!" and
+    <p> "What trial is it?" panted <char  species="human" type="main"> Alice</char> as she ran, but the<char species="nonhuman" type="side"> Gryphon </char>only answered "come on!" and
       ran the faster, and more and more faintly came, borne on the breeze that followed them, the
       melancholy words: </p>
     <div class="poem">
@@ -1072,14 +1072,14 @@
       </div>
     </div>
     <p> The <char species="human" type="main">King and Queen</char> were seated on their throne when they arrived, with a great crowd
-      assembled around them: the Knave was in custody: and before<char  species="human"> the King</char>stood the<char species="nonhuman"> white rabbit</char>,
+      assembled around them: the Knave was in custody: and before<char  species="human" type="side"> the King</char>stood the<char species="nonhuman" type="side"> white rabbit</char>,
       with a trumpet in one hand, and a scroll of parchment in the other. </p>
     <image source="au-images/image_087.jpg"/>
     <p>
       
     </p>
-    <p><quote> "Herald! read the accusation!"</quote> <xpres>said</xpres> the <char  species="human">King</char>. </p>
-    <p> On this the <char species="nonhuman">white rabbit </char>blew three blasts on the trumpet, and then unrolled the parchment
+    <p> "Herald! read the accusation!" <char species="nonhuman" type="side"> Mock Turtle</char>said the <char  species="human" type="side">King</char>. </p>
+    <p> On this the <char species="nonhuman" type="side">white rabbit </char>blew three blasts on the trumpet, and then unrolled the parchment
       scroll, and read as follows: </p>
     <div class="poem">
       <div class="stanza">
@@ -1089,28 +1089,28 @@
         <l indent="i2">And took them quite away!"</l>
       </div>
     </div>
-    <p> "Now for the evidence," said <char  species="human">the King</char>, <quote>"and then the sentence." </quote></p>
+    <p> "Now for the evidence," said <char  species="human" type="side">the King</char>, "and then the sentence." </p>
     <image source="au-images/image_088.jpg"/>
-    <p> "No!" <xpres>said</xpres> <char species="human" type="main">the Queen</char>, "first the sentence, and then the evidence!" </p>
+    <p> "No!" <char species="nonhuman" type="side"> Mock Turtle</char>said <char species="human" type="main">the Queen</char>, "first the sentence, and then the evidence!" </p>
     <p> "Nonsense!" cried <char species="human" type="main">Alice</char>, so loudly that everybody jumped, "the idea of having the sentence
       first!" </p>
-    <p> <quote>"Hold your tongue!" </quote><xpres>said </xpres><char  species="human">the Queen</char>. </p>
-    <p> <quote>"I won't!"</quote> said <char  species="human">Alice</char>, "you're nothing but a pack of cards! Who cares for you?" </p>
+    <p> "Hold your tongue!" <char species="nonhuman" type="side"> Mock Turtle</char>said <char  species="human" type="main">the Queen</char>. </p>
+    <p> "I won't!" said <char  species="human" type="main"> Alice</char>, "you're nothing but a pack of cards! Who cares for you?" </p>
     <p> At this the whole pack rose up into the air, and came flying down upon her: she gave a
       little scream of fright, and tried to beat them off, and found herself lying on the bank, with
       her head in the lap of her sister, who was gently brushing away some leaves that had fluttered
       down from the trees on to her face.
     </p>
-    <p> "Wake up! <char species="human" type="main">Alice</char> dear!" <xpres>said </xpres>her sister,<quote> "what a nice long sleep you've had!"</quote> </p>
-    <p> "Oh, I've had such a curious dream!" <xpres>said </xpres><char  species="human">Alice</char>, and she told her sister all her Adventures
+    <p> "Wake up! <char species="human" type="main">Alice</char> dear!" <char species="nonhuman" type="side"> Mock Turtle</char>said her sister, "what a nice long sleep you've had!" </p>
+    <p> "Oh, I've had such a curious dream!" <char species="nonhuman" type="side"> Mock Turtle</char>said <char  species="human" type="main"> Alice</char>, and she told her sister all her Adventures
       Under Ground, as you have read them, and when she had finished, her sister kissed her and said
       "it <uline>was</uline> a curious dream, dear, certainly! But now run in to your tea:
       it's getting late." </p>
-    <p> So <char  species="human">Alice</char> ran off, thinking while she ran (as well she might) what a wonderful dream it had
+    <p> So <char  species="human" type="main"> Alice</char> ran off, thinking while she ran (as well she might) what a wonderful dream it had
       been. </p>
     
     <p> But her sister sat there some while longer, watching the setting sun, and thinking of little
-      <char  species="human">Alice </char>and her Adventures, till she too began dreaming after a fashion, and this was her dream: </p>
+      <char  species="human" type="main">Alice</char>and her Adventures, till she too began dreaming after a fashion, and this was her dream: </p>
     <p> <yap>She saw an ancient city, and a quiet river winding near it along the plain, and up the
       stream went slowly gliding a boat with a merry party of children on board—she could hear their
       voices and laughter like music over the water—and among them was another little Alice, who sat
