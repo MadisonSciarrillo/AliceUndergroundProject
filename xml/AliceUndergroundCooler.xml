@@ -4,12 +4,12 @@
   <image source="au-images/image_001.jpg"/>
   <chapter>
     <heading> Chapter I </heading>
-    <p> <char species="human" type="side">Alice</char> was beginning to get very tired of sitting by <char species="human" type="side">her sister</char> on the bank, and of having
-      nothing to do: once or twice she had peeped into the book <char species="human" type="side">her sister</char> was reading, but it had
+    <p> <char species="human" type="side">Alice</char> was beginning to get very tired of sitting by her <char species="human" type="side">sister</char> on the bank, and of having
+      nothing to do: once or twice she had peeped into the book her <char species="human" type="side">sister</char> was reading, but it had
       no pictures or conversations in it, and where is the use of a book, thought <char species="human" type="main">Alice</char>, without
       pictures or conversations? So she was considering in her own mind, (as well as she could, for
       the hot day made her feel very sleepy and stupid,) whether the pleasure of making a
-      daisy-chain was worth the trouble of getting up and picking the daisies, when a <char species="nonhuman" type="side">white rabbit</char>
+      daisy-chain was worth the trouble of getting up and picking the daisies, when a white <char species="nonhuman" type="side">rabbit</char>
       with pink eyes ran close by her. </p>
     <p> There was nothing very remarkable in that, nor did <char species="human" type="main">Alice</char> think it so very much out of the
       way to hear the <char species="nonhuman" type="side">rabbit</char> say to itself "dear, dear! I shall be too late!" (when she thought it
@@ -838,7 +838,7 @@
     <p> "I couldn't help it," said <char species="human" type="side">Five</char> in a sulky tone, "<char species="human" type="side">Seven</char> jogged my elbow." </p>
     <p> On which <char species="human" type="side">Seven</char> lifted up his head and <char species="nonhuman" type="side">Mock Turtle</char>said "that's right, <char species="human" type="side">Five</char>! Always lay the blame on
       others!" </p>
-    <p> "<uline>You'd</uline> better not talk!" said <char species="human" type="side">Five</char>, "I heard the Queen say only yesterday she thought
+    <p> "<uline>You'd</uline> better not talk!" said <char species="human" type="side">Five</char>, "I heard the <char species="human" type="main">Queen</char> say only yesterday she thought
       of having you beheaded!" </p>
     <p> "What for?" said the one who had spoken first. </p>
     <p> "That's not your business, <char species="human" type="side">Two</char>!" said <char species="human" type="side">Seven</char>. </p>
@@ -850,9 +850,9 @@
     <p> "Would you tell me, please," <char species="nonhuman" type="side">Mock Turtle</char>said <char  species="human" type="main">Alice</char> timidly, "why you are painting those roses?" </p>
     <p> <char species="human" type="side">Five</char> and <char species="human" type="side">Seven</char> looked at <char species="human" type="side">Two</char>, but said nothing: Two began, in a low voice, "why, Miss, the
       fact is, this ought to have been a red rose tree, and we put a white one in by mistake, and if
-      the Queen was to find it out, we should all have our heads cut off. So, you see, we're doing
+      the <char species="human" type="main">Queen</char> was to find it out, we should all have our heads cut off. So, you see, we're doing
       our best, before she comes, to—" At this moment <char species="human" type="side">Five</char>, who had been looking anxiously across
-      the garden called out "the Queen! the Queen!" and the three gardeners instantly threw themselves flat upon
+      the garden called out "the <char species="human" type="main">Queen</char>! the <char species="human" type="main">Queen</char>!" and the three gardeners instantly threw themselves flat upon
       their faces. There was a sound of many footsteps, and Alice looked round, eager to see the <char species="human" type="main">
         Queen</char>. </p>
     <p> First came ten soldiers carrying clubs; these were all shaped like the three gardeners, flat
