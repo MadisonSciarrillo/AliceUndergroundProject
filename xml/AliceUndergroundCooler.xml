@@ -1071,8 +1071,8 @@
         <l indent="i0">Beautiful beautiful Soup!"</l>
       </div>
     </div>
-    <p> The <char species="human" type="main">King and Queen</char> were seated on their throne when they arrived, with a great crowd
-      assembled around them: the Knave was in custody: and before<char  species="human" type="side"> the King</char>stood the<char species="nonhuman" type="side"> white rabbit</char>,
+    <p> The <char species="human" type="main">King</char> and <char species="human" type="main">Queen</char> were seated on their throne when they arrived, with a great crowd
+      assembled around them: the Knave was in custody: and before the <char  species="human" type="side">King</char>stood the white <char species="nonhuman" type="side">rabbit</char>,
       with a trumpet in one hand, and a scroll of parchment in the other. </p>
     <image source="au-images/image_087.jpg"/>
     <p>
