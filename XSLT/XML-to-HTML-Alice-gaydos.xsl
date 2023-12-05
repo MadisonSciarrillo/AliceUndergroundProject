@@ -48,11 +48,13 @@
         </div>
     </xsl:template>
     
-    <xsl:template match="yap">
+    <!--<xsl:template match="yap">
         <div class="yap">
             <xsl:apply-templates/>
         </div>
-    </xsl:template>
+    </xsl:template>-->
+    
+    <xsl:template match="yap"/>
     
     <xsl:template match="poem">
         <div class="poem">
@@ -60,8 +62,8 @@
         </div>
     </xsl:template>
     
-    <xsl:template match="div[@class='poem']">
-        <div class="poem">
+    <xsl:template match="stanza">
+        <div class="stanza">
             <xsl:apply-templates/>
         </div>
     </xsl:template>
