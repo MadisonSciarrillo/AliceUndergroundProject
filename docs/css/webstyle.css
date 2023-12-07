@@ -8,9 +8,6 @@ ol {
     list-style-type: lower-alpha;
     padding: 5em;
 }
-section{
-    display: flex;
-}
 
 section.photos {
     background-color: olive;
