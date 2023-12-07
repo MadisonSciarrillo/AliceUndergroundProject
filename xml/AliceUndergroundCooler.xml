@@ -817,11 +817,11 @@
       in hand, in couples: they were all ornamented with hearts. Next came the guests, mostly kings
       and queens, among whom <char  species="human" type="main">Alice</char> recognised the white <char species="nonhuman" type="side">rabbit</char>: it was talking in a hurried nervous
       manner, smiling at everything that was said, and went by without noticing her. Then followed
-      the Knave of Hearts, carrying the King's crown on a cushion, and, last of all this grand
+      the <char type="side" species="human">Knave</char> of Hearts, carrying the King's crown on a cushion, and, last of all this grand
       procession, came <b>THE KING AND QUEEN OF HEARTS</b>. </p>
     <image source="au-images/image_071.jpg"/>
     <p> When the procession came opposite to <char  species="human" type="main">Alice</char>, they all stopped and looked at her, and the <char species="human" type="main">Queen</char> said severely "who
-      is this?" She said it to the Knave of Hearts, who only bowed and smiled in reply. </p>
+      is this?" She said it to the <char type="side" species="human">Knave</char> of Hearts, who only bowed and smiled in reply. </p>
     <p> "Idiot!" said the <char species="human" type="main" >Queen</char>, turning up her nose, and asked Alice "what's your name?" </p>
     <p> "My name is <char species="human" type="main">Alice</char>, so please your Majesty," said <char  species="human" type="main">Alice</char> boldly, for she thought to herself
        "why, they're only a pack of cards! I needn't be afraid of them!" </p>
@@ -836,8 +836,8 @@
     <p> "Nonsense!" said <char  species="human" type="main">Alice</char>, very loudly and decidedly, and the <char species="human" type="main">Queen</char> was silent. </p>
     <p> the <char  species="human" type="side">King</char> laid his hand upon her arm, and said timidly "remember, my dear! She is only a
       child!" </p>
-    <p> the <char species="human" type="main">Queen</char> turned angrily away from him, and said to the Knave "turn them over!" </p>
-    <p> The Knave did so, very carefully, with one foot. </p>
+    <p> the <char species="human" type="main">Queen</char> turned angrily away from him, and said to the <char type="side" species="human">Knave</char> "turn them over!" </p>
+    <p> The <char type="side" species="human">Knave</char> did so, very carefully, with one foot. </p>
     <p> "Get up!" said the <char species="human" type="main">Queen</char>, in a shrill loud voice, and the <char species="nonhuman" type="side">three gardeners</char> instantly jumped
       up, and began bowing to the King, the Queen, the Royal children, and everybody else. </p>
     <p> "Leave off that!" screamed the <char species="human" type="main">Queen</char>, "you make me giddy." And then, turning to the rose
@@ -1016,7 +1016,7 @@
       </stanza>
     </poem></yap>
     <p> The <char species="human" type="main">King</char> and <char species="human" type="main">Queen</char> were seated on their throne when they arrived, with a great crowd
-      assembled around them: the Knave was in custody: and before the <char  species="human" type="side">King</char> stood the white <char species="nonhuman" type="side">rabbit</char>,
+      assembled around them: the <char type="side" species="human">Knave</char> was in custody: and before the <char  species="human" type="side">King</char> stood the white <char species="nonhuman" type="side">rabbit</char>,
       with a trumpet in one hand, and a scroll of parchment in the other. </p>
     <image source="au-images/image_087.jpg"/>
     <p> "Herald! read the accusation!" said the <char  species="human" type="side">King</char>. </p>
@@ -1026,7 +1026,7 @@
       <stanza>
         <l indent="i0">"The Queen of Hearts she made some tarts</l>
         <l indent="i2">All on a summer day:</l>
-        <l indent="i0">The Knave of Hearts he stole those tarts,</l>
+        <l indent="i0">The <char type="side" species="human">Knave</char> of Hearts he stole those tarts,</l>
         <l indent="i2">And took them quite away!"</l>
       </stanza>
     </poem>
