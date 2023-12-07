@@ -8,6 +8,9 @@ ol {
     list-style-type: lower-alpha;
     padding: 5em;
 }
+section{
+    display: flex;
+}
 
 section.photos {
     background-color: olive;
@@ -51,9 +54,28 @@ nav {
     margin-right: 20px;
     margin-left: 20px;
 }
+div.gallery {
+                margin: 5px;
+                border: 1px solid #ccc;
+                float: left;
+                width: 180px;
+            }
+            
+            div.gallery:hover {
+                border: 1px solid #777;
+            }
+            
+            div.gallery img {
+                width: 50%;
+                height: auto;
+            }
+            
+            div.desc {
+                padding: 15px;
+                text-align: center;}
 
 
-@keyframes moveTitle {
+/*@keyframes moveTitle {
     0% {
         transform: translateX(0); 
     }
@@ -63,9 +85,9 @@ nav {
     100% {
         transform: translateX(0); 
     }
-}
+}*/
 
 
-h1 {
+/*h1 {
     animation: moveTitle 5s infinite; 
-}
+}*/
