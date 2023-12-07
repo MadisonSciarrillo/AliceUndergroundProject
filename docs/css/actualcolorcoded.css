@@ -1,0 +1,57 @@
+span.character { color: red; }
+div.yap { color: green; }
+
+body {
+    background-color: #f6f0e7;
+    color: black;
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+}
+
+ol {
+    list-style-type: lower-alpha;
+    padding: 5em;
+}
+
+section.photos {
+    background-color: olive;
+    font-family: roman, 'times new roman', times, serif;
+}
+
+figure.image {
+    max-width: 150px;
+}
+
+div {
+    width: 50%;
+    margin: auto;
+}
+
+img {
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    justify-content: center;
+}
+
+figure {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    justify-content: center;
+}
+
+nav {
+    background-color: white;
+    color: black;
+    padding: 20px;
+    width: 45%;
+    border-style: outset;
+    border-width: medium;
+    border-color: black;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
