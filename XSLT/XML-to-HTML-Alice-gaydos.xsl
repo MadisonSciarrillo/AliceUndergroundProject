@@ -48,13 +48,13 @@
         </div>
     </xsl:template>
     
-    <xsl:template match="yap">
+    <!--<xsl:template match="yap">
         <div class="yap">
             <xsl:apply-templates/>
         </div>
-    </xsl:template>
+    </xsl:template>-->
     
-    <!--<xsl:template match="yap"/>-->
+    <xsl:template match="yap"/>
     
     <xsl:template match="poem">
         <div class="poem">
@@ -72,13 +72,13 @@
         <span class="character"><xsl:apply-templates/></span>
     </xsl:template>
     
-    <xsl:template match="image"/>
-    
     <xsl:template match="uline">
         <em><xsl:apply-templates/></em>
     </xsl:template>
     
-    <!--<xsl:template match="image">
+    <xsl:template match="image">
         <figure><img src="{@source}"></img></figure> <xsl:apply-templates/>
-    </xsl:template>-->
+    </xsl:template>
+    
+    <!--<xsl:template match="image"/>-->
 </xsl:stylesheet>
