@@ -1,0 +1,33 @@
+body {
+    background-color: #f6f0e7;
+    color: black;
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+}
+nav {
+    background-color: white;
+    color: black;
+    padding: 20px;
+    width: 45%;
+    border-style: outset;
+    border-width: medium;
+    border-color: black;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+div.batch {
+    display: flex;
+}
+div.gallery {
+    border-style: outset;
+    border-width: medium;
+    border-color: black;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    }
+   img{
+        width: 60%;
+    }
