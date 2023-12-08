@@ -20,7 +20,7 @@
                <h1>Alice's Adventures Underground</h1> 
                
           <div id="data-count">        
-              <xsl:apply-templates select="char"/>
+              <xsl:apply-templates select="descendant::chapter"/>
           </div>
    
            </body>
@@ -29,8 +29,8 @@
     
     <!-- DATA COUNT TEMPLATES -->
     
-    <xsl:template match="char">
-        <p>There are <xsl:apply-templates select="char => count()"/> characters</p>
+    <xsl:template match="chapter">
+        <p>There are <xsl:apply-templates select="descendant::char => distinct-values() => count()"/> characters in Chapter</p>
     </xsl:template>
     
 </xsl:stylesheet>

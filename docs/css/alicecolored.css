@@ -69,3 +69,11 @@ nav {
 h1 {
     animation: moveTitle 5s infinite; 
 }
+
+span.character {color:red; }
+
+div.yap {color:green; }
+
+div.poem {color:blue;}
+
+em {color:blueviolet;}
