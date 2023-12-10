@@ -13,15 +13,16 @@
        <html>
            <head>
                <title>Alice's Adventures Underground</title>
-               <link rel="stylesheet" type="text/css" href="aliceXSLT.css"/> 
+               <link rel="stylesheet" type="text/css" href="webstyle.css"/> 
            </head>
            <body>
          
                <h1>Alice's Adventures Underground</h1> 
                
-          <div id="data-count">        
-              <xsl:apply-templates select="descendant::chapter"/>
-          </div>
+          <section class="data-count">        
+              <div class="char"><xsl:apply-templates select="descendant::chapter"/></div>
+              <div class="yap"><xsl:apply-templates mode="yap"/></div>
+          </section>
    
            </body>
        </html>
@@ -31,6 +32,10 @@
     
     <xsl:template match="chapter">
         <p>There are <xsl:apply-templates select="descendant::char => distinct-values() => count()"/> characters in Chapter</p>
+    </xsl:template>
+    
+    <xsl:template match="chapter" mode="yap">
+        <p>The longest yap string was <xsl:apply-templates select="descendant::yap ! string-length(.) => max()"/> characters in Chapter</p>
     </xsl:template>
     
 </xsl:stylesheet>
