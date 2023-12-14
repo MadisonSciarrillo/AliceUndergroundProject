@@ -19,6 +19,7 @@ nav {
 }
 div.batch {
     display: flex;
+    width: 100%;
 }
 div.gallery {
     border-style: outset;
@@ -27,7 +28,9 @@ div.gallery {
     border-radius: 5px;
     background-color: white;
     color: black;
+    width: 25%;
     }
-   img{
-        width: 60%;
-    }
+   div.gallery img {
+  width: 100%;
+  height: auto;
+}
